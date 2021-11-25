@@ -24,7 +24,7 @@ Every one would like to keep their natural teeth for lifelong. However, if you a
 
 <p>
 <br />
-<img alt="Dental implants improve your ability to eat speak and laugh.jpg" src="/Dental_implants_improve_your_ability_to_eat_speak_and_laugh.jpg" idth="1120" height="630"  />
+<img alt="Dental implants improve your ability to eat speak and laugh.jpg" src="/Dental_implants_improve_your_ability_to_eat_speak_and_laugh.jpg" width="1120" height="630"  />
 </p>
 
 <div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_a_single_front_tooth.jpg" class="image"><img alt="Replacement of a single front tooth.jpg" src="/images/a/a9/Replacement_of_a_single_front_tooth.jpg" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
