@@ -24,7 +24,7 @@ A dental implant is a wonderful, easy and conservative way to replace a missing 
 Our office will present all options. The best dental implant solution for one patient, may not be the best for another.
 </p><p>At Valley Periodontics office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best dental implant solution  to meet the patient’s needs.
 </p>
-<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_single_or_multiple_back_teeth.jpg" class="image"><img alt="Replacement of single or multiple back teeth.jpg" src="/images/4/49/Replacement_of_single_or_multiple_back_teeth.jpg" width="150" height="132" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_single_or_multiple_back_teeth.jpg" class="image"><img alt="Replacement of single or multiple back teeth.jpg" src="/900px-Dental_implants_improve_your_ability_to_eat_speak_and_laugh.jpg" width="150" height="132" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
 <p>Call  604-755-3366 to book an implant consult and learn about dental implants, cost of a dental implant. 
 </p><p>Valley Periodontics and Dental Implants is a specialty clinic dealing with gum diseases and esthetic and plastic surgeries of oral tissue. It also provides dental implant treatment to replace missing teeth, with special emphasis on soft tissue esthetics and maintenance around the dental implants. The clinic is also equipped with IV Sedation Facilities.
 </p><p><br />
