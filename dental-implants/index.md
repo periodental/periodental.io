@@ -35,7 +35,4 @@
 </p>
 <!-- Saved in parser cache with key valley:pcache:idhash:5-0!*!*!!en!5!* and timestamp 20211125101047 and revision id 6
  -->
-</div><div class="printfooter">
-Retrieved from "<a dir="ltr" href="https://www.abbotsfordperiodontist.ca/index.php?title=Dental_implants&amp;oldid=6">https://www.abbotsfordperiodontist.ca/index.php?title=Dental_implants&amp;oldid=6</a>"</div>
-
 </div>
