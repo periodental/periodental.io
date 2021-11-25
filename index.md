@@ -6,12 +6,7 @@ title: Perio Dental
 
 
 
-				<div class="pagetitle page-header">
-					<h1>Welcome to Valley Dental Implants &amp; Periodontics, your specialists in periodontal health <small></small></h1>
-				</div>	
 
-				<div class="body"><div class="row">
-<div class="col-md-8">
 				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p><iframe width="560" height="315" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p><p><br />
 Every one would like to keep their natural teeth for lifelong. However, if you are suffering from silent gum disease, you may loose the teeth earlier. We can help in diagnosing the gum disease and treat the root cause of the disease. Using this approach will effectively treat the gum disease. You will benefit by having healthy teeth and gums, which can significantly extend the life of the teeth. 
