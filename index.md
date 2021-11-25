@@ -1,4 +1,9 @@
-																
+---
+layout: default
+---
+
+
+
 				<div class="pagetitle page-header">
 					<h1>Welcome to Valley Dental Implants &amp; Periodontics, your specialists in periodontal health <small></small></h1>
 				</div>	
