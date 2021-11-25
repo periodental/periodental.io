@@ -741,5 +741,324 @@
     </div>
 </header>
     {{ content }}
-  </body>
+<footer class="site-footer" itemscope itemtype="https://schema.org/WPFooter">
+    <div class="wrap">Perio Dental
+        ©
+        2019
+    </div>
+</footer>            <style type="text/css">
+                .primary_color, .breadcrumb, .breadcrumb a, .entry-header {
+                    background-color: #1171AF !important;
+                    color: #fff !important;
+                }
+
+                .secondary_color {
+                    background-color: #46AD4C;
+                }
+
+                .highlight_color {
+                    background-color: #32C5F4 !important;
+                }
+
+                ;
+                .site-inner {
+                    background-color: #1171AF !important;
+                }
+
+                /*Main Homepage*/
+                .gradient {
+                    background: #00AEEF; /* Old browsers */
+                    background: -moz-linear-gradient(left, #00AEEF 0%, #32C5F4 100%); /* FF3.6+ */
+                    background: -webkit-gradient(linear, left top, right top, color-stop(0%, #00AEEF), color-stop(100%, #32C5F4)); /* Chrome,Safari4+ */
+                    background: -webkit-linear-gradient(left, #00AEEF 0%, #32C5F4 100%); /* Chrome10+,Safari5.1+ */
+                    background: -o-linear-gradient(left, #00AEEF 0%, #32C5F4 100%); /* Opera 11.10+ */
+                    background: -ms-linear-gradient(left, #00AEEF 0%, #32C5F4 100%); /* IE10+ */
+                    background: linear-gradient(to right, #00AEEF 0%, #32C5F4 100%); /* W3C */
+                    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00AEEF', endColorstr='#32C5F4', GradientType=1); /* IE6-9 */
+                    Padding: 10%;
+                }
+
+                .home input {
+                    color: rgba(17, 113, 175, 1) !important;
+                }
+
+                /*body.custom-background {
+				  background-color: rgba(17,113,175,1) !important;
+				}*/
+
+                /*Menu*/
+                .nav-primary .sub-menu a {
+                    background-color: #1171AF;
+                    border-color: #fff;
+                    color: #fff !important;
+                }
+
+                .nav-primary .genesis-nav-menu.responsive-menu .sub-menu {
+                    background-color: #1171AF;
+                }
+
+                /*Add primary color to the number CTA*/
+                .callus a {
+                    font-weight: bold;
+                    color: #1171AF !important;
+                }
+
+                /*Images*/
+                .background_cta {
+                    background-image: url();
+                }
+
+                .home-map-image {
+                    background-image: url();
+                    background-size: cover;
+                    background-position: Center Center !important;
+                }
+
+                /*Testimonial Page*/
+                .related_videos {
+                    border-top: 7px solid #46AD4C;
+                }
+
+                /*Youtube Video */
+                .video_thumb {
+                    background-size: cover;
+                    background-repeat: no-repeat;
+                    background-position: top center;
+                    height: 400px;
+                }
+
+                /*Change play button color on all inline video images*/
+                .content #playhover,
+                .page-template-hero-max-landing-fullpage > .row > .col-md-12 a #playhover,
+                .main-home #playhover,
+                .page-template-hero-min-landing #playhover,
+                .page-template-hero-max-landing > div.row.no-gutters > div > a > #playhover,
+                .single-procedure > div.site-container > div > div > div:nth-child(3) > div > a > #playhover {
+                    background: url(wp-content/uploads/ABOT-play-button.png) no-repeat center center !important;
+                }
+
+                /*Add line to the botton of inline video image*/
+                article #playhover + img {
+                    border-bottom: 5px solid #46AD4C;
+                }
+
+
+                /*Fancy Overlay*/
+                #fancybox-overlay, .fancybox-lock .fancybox-overlay, .fancybox-overlay-fixed, .fancybox-overlay {
+                    background-image: url(wp-content/uploads/ABOT-Background-Dark.jpg) !important;
+                    background-size: cover !important;
+                    background-position: left top !important;
+                }
+
+                /*Archive Pages*/
+                .archive-description, .author-box {
+                    border-top: 7px solid #46AD4C;
+                    border-left: 0px;
+                    border-right: 0px;
+                }
+
+                .archive .entry-header a {
+                    color: #fff;
+                    font-size: 1em;
+                }
+
+
+                /*Team Page*/
+                .tiled-gallery .gallery-row, .bio-image img {
+                    border-bottom: 3px solid #1171AF;
+                }
+
+                /*Hot fix 7.10.2015 Adding border to the images of the staff -BA*/
+                .team .entry-content img, .team .gallery-item img {
+                    border-bottom: 5px solid #1171AF;
+                }
+
+                /*Links*/
+                a {
+                    color: #1171AF;
+                    text-decoration: none !important;
+                }
+
+                /*Change current menu color*/
+                /*.menu-primary .current-menu-item > ul > li > a > span  {color: #1171AF;}*/
+
+                /*BTNS*/
+                .button {
+                    background-color: #46AD4C !important;
+                }
+
+                /*Add colored bullet points*/
+                .entry-content ul {
+                    list-style-type: none;
+                    position: relative;
+                    padding-left: 0;
+                }
+
+                .entry-content ul > li {
+                    list-style: none;
+                }
+
+                .entry-content ul > li:before {
+                    content: "• \00a0 \00a0 \00a0";
+                    color: #1171AF; /* Color of the bullet */
+                    position: absolute;
+                    left: -1em;
+                    margin-right: 5px;
+                }
+
+                /*Remove bullets on feedback page*/
+                .page-template-page_feedback .entry-content ul > li:before {
+                    content: "" !important;
+                }
+
+                /* Video Player Pages
+				--------------------------------------------- */
+                .fancybox-wrap:before {
+                    background: url(wp-content/uploads/ABOT-Mark.png) no-repeat center center !important;
+                    content: ".";
+                    position: relative;
+                    width: 100%;
+                    height: 130px;
+                    z-index: 8040;
+                    display: block;
+                    margin-bottom: 20px;
+                    background-size: contain !important;
+                }
+
+                /*Homepage - Max Width HeroCard - change line under image*/
+                .page-template-hero-max-landing > a > img {
+                    border-bottom: 4px solid #1171AF;
+                }
+
+                /*change color on landinage page background*/
+                .animated-home {
+                    background-color: #1171AF;
+                }
+
+                /*Homepage - Max Width HeroCard and full page content - change line under image*/
+                .page-template-hero-max-landing-fullpage > .row > .col-md-12 a img,
+                .page-template-hero-max-landing > .row > .col-md-12 a img {
+                    border-bottom: 4px solid #1171AF;
+                    width: 100%;
+                }
+
+
+                /* Archive Page
+				--------------------------------------------- */
+                .circle-text:after {
+                    background-color: #32C5F4 !important;
+                }
+
+                body .entry-content .gfield_label {
+                    font-size: 30px !important;
+                    color: #1171AF;
+                }
+
+                /*Add BG image to full screen pages.  Going to remove this for now*/
+                /*.full-width-content > div.site-container > div > div > div:nth-child(3) > main > article {
+					background-image: url( http://www.abbotsfordoralsurgery.com/wp-content/uploads/ABOT-Background-Main.jpg ) !important;
+					background-size: cover;
+					background-position: left top !important;
+				}*/
+
+                .full-width-content.custom-background {
+                    background-image: url("wp-content/uploads/ABOT-Background-Dark.jpg") !important;
+                    background-attachment: fixed;
+                }
+
+
+                body .gform_wrapper .gform_body .gform_fields .gfield input[type=text]:focus,
+                body .gform_wrapper .gform_body .gform_fields .gfield input[type=email]:focus,
+                body .gform_wrapper .gform_body .gform_fields .gfield input[type=tel]:focus,
+                body .gform_wrapper .gform_body .gform_fields .gfield input[type=url]:focus,
+                body .gform_wrapper .gform_body .gform_fields .gfield input[type=number]:focus,
+                body .gform_wrapper .gform_body .gform_fields .gfield input[type=password]:focus,
+                body .gform_wrapper .gform_body .gform_fields .gfield select:focus {
+                    border: 1px solid #1171AF;
+                    background-color: #FFF8BD;
+                }
+
+
+                .gform_wrapper .percentbar_blue {
+                    background-image: url('wp-content/themes/nuvo-express/images/opas_15.png');
+                    background-repeat: repeat-x;
+                    background-color: #1171AF;
+                    color: #FFF;
+                }
+
+                /* Make some mobile Tweaks
+				--------------------------------------------- */
+                @media only screen and (max-width: 1023px) {
+                    .mobile-cta {
+                        color: #1171AF !important;
+                    }
+
+                    /*Make mobile help menu primary color*/
+                }
+
+                /* This tweaks only Small devices (tablets and phones, 768px and up) */
+                @media (max-width: 900px) {
+                    .fancybox-youtube > .feedperson, .feedperson.shade30 {
+                        border-bottom: 2px solid #32C5F4;
+                    }
+
+                    /*Add line under main videos on homepage / Move background face down*/
+                    div.col-md-12.row.no-gutters > a > div.feedperson {
+                        border-bottom: 2px solid #32C5F4;
+                    }
+
+                    /*Add line under CTA buttons on homepage*/
+                }
+
+                /*Add custom color to the case study block on homepage*/
+                .image-holder:after {
+                    background-color: rgba(70, 173, 76, 0.7);
+
+                }
+
+                /*Add video overlay on main sizzle as a dynamic layer*/
+                .home-hero {
+                    background: rgba(17, 113, 175, 1) !important;
+                }
+
+                @media only screen and (max-width: 1024px) {
+
+                    .home-hero:after {
+                        background: rgba(17, 113, 175, 0.8);
+                    }
+
+                }
+
+            </style>
+        </div>
+        <div class="mask">&nbsp;</div>
+		<link rel='stylesheet' id='dashicons-css' href='/wp-includes/css/dashicons.min3c21.css?ver=5.1.1' type='text/css'
+      media='all'/>
+<link rel='stylesheet' id='google-fonts-css' href="https://fonts.googleapis.com/css?family=Lato%3A300%2C900%2C700%2C300italic%7CTitillium+Web%3A600%7CBilbo%3A%3Alatin%7CLibre+Baskerville%3A400italic&amp;ver=.1" type='text/css' media='all' />
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500&display=swap" rel="stylesheet">
+
+<link rel='stylesheet' id='nuvo-iconset-css' href='/themes/nuvo-express/css/nuvo-iconsetd961.css?ver=.1'
+      type='text/css' media='all'/>
+<link rel='stylesheet' id='fancybox-css-css' href='/themes/nuvo-express/jquery.fancyboxd961.css'
+      type='text/css' media='all'/>
+
+
+<script type='text/javascript' src='/wp-includes/js/comment-reply.min3c21.js?ver=5.1.1'></script>
+<script type='text/javascript' src='/themes/genesis/lib/js/skip-links.min1102.js?ver=2.8.1'></script>
+<script type='text/javascript' src='/plugins/reduce-bounce-rate/js/analyticsjs3c21.js?ver=5.1.1'></script>
+<script type='text/javascript' src='/wp-includes/js/wp-embed.min3c21.js?ver=5.1.1'></script>
+<script type='text/javascript' src='/themes/nuvo-express/js/responsive-menu8a54.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/themes/nuvo-express/js/jquery.fancybox8a54.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/themes/nuvo-express/js/jquery.fancybox-media8a54.js?ver=1.0.0'></script>
+<script type='text/javascript' src='/themes/longevity/js/affix.js'></script>
+<script type='text/javascript' src='/themes/longevity/js/main.js'></script>
+    <script type='text/javascript' src='/plugins/wp-retina-2x/js/retina.min001e.js?ver=2.0.0'></script>
+    <!--    <script type='text/javascript' src='/themes/nuvo-express/js/video.mince52.js?ver=5.0.2'></script>-->
+    <!--    <script type='text/javascript' src='/themes/nuvo-express/js/bigvideo3c21.js?ver=5.1.1'></script>-->
+    <!--    <script type='text/javascript' src='/themes/nuvo-express/js/bigvideo-init8a54.js?ver=1.0.0'></script>-->
+<div class="floating-button">
+    <a href="/contact-us/">Contact Us</a>
+</div>
+</body>
+<!-- Mirrored from www.abbotsfordoralsurgery.com/information/anesthesia-options/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 26 Mar 2019 21:57:38 GMT -->
 </html>
