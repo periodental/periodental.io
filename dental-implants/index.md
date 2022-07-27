@@ -1,3 +1,8 @@
+<div class="row">
+
+<div class="col-xs-12 col-sm-12  primary_color text-light featured-text no-gutters">
+<div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
+
 <div class="body"><div class="row">
 <div class="col-md-8">
 				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Dental Implants are designed to provide a foundation for replacement teeth that look, feel and function like natural teeth. The implants are tiny titanium posts which are placed into the jawbone where teeth are missing. The bone bonds with the titanium creating a strong foundation for artificial teeth. In addition, dental implants can help preserve facial structure, preventing the bone deterioration which occurs when teeth are missing.
