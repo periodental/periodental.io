@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Atraumatic Extraction and Bone Socket Preservation
+title: Atraumatic Extraction and Socket Preservation
 ---
 
 <div class="row">
