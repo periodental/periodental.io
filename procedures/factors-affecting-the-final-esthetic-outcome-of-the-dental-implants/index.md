@@ -21,6 +21,4 @@ title: Factors affecting the final Esthetic Outcome of the Dental Implants
 <p>A thin <a href="/index.php?title=receding_gum&amp;action=edit&amp;redlink=1" class="new" title="receding gum (page does not exist)">receding gum</a> over the implant may show grayish tinge of the inner metal, the crown can appear longer and some times tissue between implants (papilla) are missing which leads to unsightly gaps.
 </p><p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
 </p>
-<!-- Saved in parser cache with key valley:pcache:idhash:35-0!*!0!*!*!5!* and timestamp 20220727184911 and revision id 36
- -->
 </div>
