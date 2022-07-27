@@ -36,9 +36,3 @@ Our office will present all options. The best dental implant solution for one pa
 <h2><span class="mw-headline" id="Dr._Roy">Dr. Roy</span></h2>
 <p>Dr. Mansur Roy is a Certified Specialist in Periodontics (University of Detroit Mercy) and has been practicing in Abbotsford since 2012. He also has decades of experience as a dentist. He has taken extensive post graduate training in periodontics &amp; <a href="/dental_implants" class="mw-redirect" title="dental implants">dental implants</a>.  Preserving and developing natural tissue aesthetics in the treatment of <a href="/dental_implants" class="mw-redirect" title="dental implants">dental implants</a> and gum problems is his primary interest. He is also certified for intravenous sedation. <i><a href="/About_Dr._Roy" title="About Dr. Roy">Read more about Dr. Roy</a></i>
 </p>
-</div>
-</div>
-</div>
-
-
-
