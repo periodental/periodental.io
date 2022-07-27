@@ -3,12 +3,10 @@ layout: default
 title: Perio Dental
 ---
 
+<div class="row">
 
-                        <div class="row">
-
-                            <div class="col-xs-12 col-sm-12  primary_color text-light featured-text no-gutters">
-                                <div class=" col-md-12"
-                                     style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
+<div class="col-xs-12 col-sm-12  primary_color text-light featured-text no-gutters">
+<div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
 
 
 <p><iframe width="1120" height="630" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
