@@ -3,3 +3,4 @@ atraumatic-extraction-and-bone-socket-preservation
 implant-supported-dentures
 bone-graft-surgery
 sinus-lift-surgery
+bone-and-tissue-loss-after-extraction
