@@ -1,5 +1,5 @@
 factors-affecting-the-final-esthetic-outcome-of-the-dental-implants
-atraumatic-extraction-and-bone-socket-preservation
+atraumatic-extraction-and-socket-preservation
 implant-supported-dentures
 bone-graft-surgery
 sinus-lift-surgery
@@ -12,3 +12,8 @@ muco-gingival-problems
 frenectomy
 gingivitis
 referrals
+###
+Periodontitis
+Periodontal disease prevention is better than cure
+Gummy Smile
+Guided Tissue Regeneration
