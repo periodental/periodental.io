@@ -4,3 +4,11 @@ implant-supported-dentures
 bone-graft-surgery
 sinus-lift-surgery
 bone-and-tissue-loss-after-extraction
+###
+removable-implant-supported-denture
+dental-implants-vs-bridge-vs-denture
+receding-gums
+muco-gingival-problems
+frenectomy
+gingivitis
+referrals
