@@ -7,7 +7,7 @@ Bone and Tissue Loss after Extraction
 ###
 Removable Implant Supported Denture
 Cost effectiveness of Dental Implants compared to Bridges and Dentures
-Receding Gums
+
 Muco Gingival problems
 Frenectomy
 Gingivitis
@@ -17,3 +17,4 @@ Periodontitis
 Periodontal disease prevention is better than cure
 Gummy Smile
 Guided Tissue Regeneration
+Receding Gums

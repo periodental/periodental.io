@@ -7,13 +7,14 @@ bone-and-tissue-loss-after-extraction
 ###
 removable-implant-supported-denture
 cost-effectiveness-of-dental-implants-compared-to-bridges-and-dentures
-receding-gums
+
 muco-gingival-problems
 frenectomy
 gingivitis
 referrals
 ###
-Periodontitis
-Periodontal disease prevention is better than cure
-Gummy Smile
-Guided Tissue Regeneration
+periodontitis
+periodontal-disease-prevention-is-better-than-cure
+gummy-smile
+guided-tissue-regeneration
+receding-gums
