@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Receding Gums
+title: Receding gums
 ---
 
 <div class="row">
