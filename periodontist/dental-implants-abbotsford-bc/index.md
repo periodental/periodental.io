@@ -1,16 +1,15 @@
+---
+layout: default
+title: Dental implants overview
+---
+
 <div class="row">
 
 <div class="col-xs-12 col-sm-12  primary_color text-light featured-text no-gutters">
 <div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
 
-<div class="body"><div class="row">
-<div class="col-md-8">
-				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><p>Dental Implants are designed to provide a foundation for replacement teeth that look, feel and function like natural teeth. The implants are tiny titanium posts which are placed into the jawbone where teeth are missing. The bone bonds with the titanium creating a strong foundation for artificial teeth. In addition, dental implants can help preserve facial structure, preventing the bone deterioration which occurs when teeth are missing.
+<p>Dental Implants are designed to provide a foundation for replacement teeth that look, feel and function like natural teeth. The implants are tiny titanium posts which are placed into the jawbone where teeth are missing. The bone bonds with the titanium creating a strong foundation for artificial teeth. In addition, dental implants can help preserve facial structure, preventing the bone deterioration which occurs when teeth are missing.
 </p><p>A crown or a bridge is placed over the implant(s). The way our natural teeth have roots, dental implants are similar in many ways to natural teeth. The implants act like the roots of teeth and provide support to the crown.
-</p><p><br />
-<a href="/File:Dental-implants2.jpg" class="image"><img alt="Dental-implants2.jpg" src="/images/4/44/Dental-implants2.jpg" width="630" height="180" /></a>
-</p><p><br />
-<a href="/File:Dental-implants1.jpg" class="image"><img alt="Dental-implants1.jpg" src="/images/d/d1/Dental-implants1.jpg" width="630" height="180" /></a>
 </p><p><br />
 </p>
 <div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
@@ -39,7 +38,11 @@
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.
 </p>
 
-
+<p><br />
+<a href="/File:Dental-implants2.jpg" class="image"><img alt="Dental-implants2.jpg" src="/images/4/44/Dental-implants2.jpg" width="630" height="180" /></a>
+</p><p><br />
+<a href="/File:Dental-implants1.jpg" class="image"><img alt="Dental-implants1.jpg" src="/images/d/d1/Dental-implants1.jpg" width="630" height="180" /></a>
+</p>
 
 <div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_a_single_front_tooth.jpg" class="image"><img alt="Replacement of a single front tooth.jpg" src="/images/a/a9/Replacement_of_a_single_front_tooth.jpg" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
 
