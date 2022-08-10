@@ -38,6 +38,5 @@
 <h3><span class="mw-headline" id="Confidence_and_psychological_benefits">Confidence and psychological benefits</span></h3>
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.
 </p>
-<!-- Saved in parser cache with key valley:pcache:idhash:5-0!*!*!!en!5!* and timestamp 20211125101047 and revision id 6
- -->
+
 </div>
