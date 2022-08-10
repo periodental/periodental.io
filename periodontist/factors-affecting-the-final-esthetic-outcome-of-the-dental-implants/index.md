@@ -9,7 +9,7 @@ title: Factors affecting the final Esthetic Outcome of the Dental Implants
 <div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
 
 
-<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Soft_Tissue_Esthetics.jpg" class="image"><img alt="Soft Tissue Esthetics.jpg" src="/images/thumb/4/4c/Soft_Tissue_Esthetics.jpg/300px-Soft_Tissue_Esthetics.jpg" width="300" height="375" class="thumbimage" srcset="/images/thumb/4/4c/Soft_Tissue_Esthetics.jpg/450px-Soft_Tissue_Esthetics.jpg 1.5x, /images/thumb/4/4c/Soft_Tissue_Esthetics.jpg/600px-Soft_Tissue_Esthetics.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Soft_Tissue_Esthetics.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
+
 <p>The biggest challenge in implant dentistry is providing gum tissue in a similar way as our natural teeth. This is because the manner in which our tissue adheres to dental implants is different than as on natural teeth.
 </p><p>The final esthetic outcome of the dental implants, is determined by many factors, such as:
 </p>
@@ -18,7 +18,9 @@ title: Factors affecting the final Esthetic Outcome of the Dental Implants
 <li> <i>size of implant</i></li>
 <li> <i>position of implant</i></li>
 <li> <i>cultivation and remodeling of tissue while placing the crown</i></li></ul>
-<p>A thin <a href="/index.php?title=receding_gum&amp;action=edit&amp;redlink=1" class="new" title="receding gum (page does not exist)">receding gum</a> over the implant may show grayish tinge of the inner metal, the crown can appear longer and some times tissue between implants (papilla) are missing which leads to unsightly gaps.
+<p>A thin receding gum over the implant may show grayish tinge of the inner metal, the crown can appear longer and some times tissue between implants (papilla) are missing which leads to unsightly gaps.
 </p><p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
 </p>
-</div>
+
+
+<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Soft_Tissue_Esthetics.jpg" class="image"><img alt="Soft Tissue Esthetics.jpg" src="/images/thumb/4/4c/Soft_Tissue_Esthetics.jpg/300px-Soft_Tissue_Esthetics.jpg" width="300" height="375" class="thumbimage" srcset="/images/thumb/4/4c/Soft_Tissue_Esthetics.jpg/450px-Soft_Tissue_Esthetics.jpg 1.5x, /images/thumb/4/4c/Soft_Tissue_Esthetics.jpg/600px-Soft_Tissue_Esthetics.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Soft_Tissue_Esthetics.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
