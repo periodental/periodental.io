@@ -16,18 +16,16 @@ Every one would like to keep their natural teeth for lifelong. However, if you a
 </p>
 <p>
 
-
-<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_a_single_front_tooth.jpg" class="image"><img alt="Replacement of a single front tooth.jpg" src="/images/a/a9/Replacement_of_a_single_front_tooth.jpg" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
 <p>Your smile is something you wear every day. Don't you want it to look better?
 </p><p><br />
 A dental implant is a wonderful, easy and conservative way to replace a missing tooth. If you are missing one or more teeth, but do not like to wear full or partial denture and would prefer to leave the adjacent teeth untouched, dental implants are excellent choice. 
 </p>
-<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_multiple_front_teeth.jpg" class="image"><img alt="Replacement of multiple front teeth.jpg" src="/images/d/d1/Replacement_of_multiple_front_teeth.jpg" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+
 <p>The cost of dental implants maybe more affordable than what you think. 
 Our office will present all options. The best dental implant solution for one patient, may not be the best for another.
 </p><p>At Valley Periodontics office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best dental implant solution  to meet the patient’s needs.
 </p>
-<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_single_or_multiple_back_teeth.jpg" class="image"><img alt="Replacement of single or multiple back teeth.jpg" src="/images/4/49/Replacement_of_single_or_multiple_back_teeth.jpg" width="150" height="132" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+
 <p>Call  604-755-3366 to book an implant consult and learn about dental implants, cost of a dental implant. 
 </p><p>Valley Periodontics and Dental Implants is a specialty clinic dealing with gum diseases and esthetic and plastic surgeries of oral tissue. It also provides dental implant treatment to replace missing teeth, with special emphasis on soft tissue esthetics and maintenance around the dental implants. The clinic is also equipped with IV Sedation Facilities.
 </p><p><br />

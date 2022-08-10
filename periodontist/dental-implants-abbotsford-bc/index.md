@@ -39,4 +39,14 @@
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.
 </p>
 
-</div>
+
+
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_a_single_front_tooth.jpg" class="image"><img alt="Replacement of a single front tooth.jpg" src="/images/a/a9/Replacement_of_a_single_front_tooth.jpg" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+
+
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_multiple_front_teeth.jpg" class="image"><img alt="Replacement of multiple front teeth.jpg" src="/images/d/d1/Replacement_of_multiple_front_teeth.jpg" width="150" height="150" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+
+
+<div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_single_or_multiple_back_teeth.jpg" class="image"><img alt="Replacement of single or multiple back teeth.jpg" src="/images/4/49/Replacement_of_single_or_multiple_back_teeth.jpg" width="150" height="132" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+
+
