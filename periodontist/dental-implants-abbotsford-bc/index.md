@@ -38,19 +38,23 @@ title: Dental implants overview
 <p>Knowing that we have replaced a missing tooth which is close to natural teeth in many ways boosts our confidence and self dignity.
 </p>
 
-<p><br />
-<a href="/File:Dental-implants2.jpg" class="image"><img alt="Dental-implants2.jpg" src="/images/4/44/Dental-implants2.jpg" width="630" height="180" /></a>
-</p><p><br />
-<a href="/File:Dental-implants1.jpg" class="image"><img alt="Dental-implants1.jpg" src="/images/d/d1/Dental-implants1.jpg" width="630" height="180" /></a>
+
+<p>
+<br />
+<img alt="Dental implants before crown placement" src="/images/Dental-implants-1of2.jpg" />
 </p>
 
+
+<p>
+<br />
+<img alt="Completed dental implants" src="/images/Dental-implants-2of2.jpg" />
+</p>
 
 
 <p>
 <br />
 <img alt="Replacement of a single front tooth" src="/images/Replacement_of_a_single_front_tooth.jpg" />
 </p>
-
 
 
 
