@@ -15,7 +15,7 @@ title: Dental implants overview
 </p>
 
 
-<h3><span class="mw-headline" id="Preserve_bone_shrinkage">Preserve bone shrinkage</span></h3>
+<h5>Preserve bone shrinkage</h5>
 <p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.
 </p>
 
