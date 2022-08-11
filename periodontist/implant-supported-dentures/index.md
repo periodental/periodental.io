@@ -11,7 +11,7 @@ title: Implant Supported Dentures
 
 Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.
 Some of the benefits of stabilising dentures with dental implants are:
-<a href="/File:Gallery-image.jpg" class="image"><img alt="Gallery-image.jpg" src="/images/e/e2/Gallery-image.jpg" width="245" height="179" /></a>
+
 </p>
 <ul><li> Improved speech and confidence                           </li>
 <li>     It’s a minimally invasive procedure</li>
@@ -44,3 +44,5 @@ Different types of implant supported overdentures
 <h3><span class="mw-headline" id="Implant-stabilised">Implant-stabilised</span></h3>
 <p>Implant-stabilised overdentures are custom created in the same manner as fixed and removable dentures. However, a smaller number of implants are used to stabilise the denture. This type of denture is able to be taken out each night to clean it.
 </p>
+
+<a href="/File:Gallery-image.jpg" class="image"><img alt="Gallery-image.jpg" src="/images/e/e2/Gallery-image.jpg" width="245" height="179" /></a>
