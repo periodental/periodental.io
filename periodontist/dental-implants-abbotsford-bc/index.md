@@ -52,4 +52,7 @@ title: Dental implants overview
 
 <div class="thumb tleft"><div class="thumbinner" style="width:152px;"><a href="/File:Replacement_of_single_or_multiple_back_teeth.jpg" class="image"><img alt="Replacement of single or multiple back teeth.jpg" src="/images/4/49/Replacement_of_single_or_multiple_back_teeth.jpg" width="150" height="132" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
 
-
+<p>
+<br />
+<img alt="Replacement of single or multiple back teeth" src="/images/Replacement_of_single_or_multiple_back_teeth.jpg" />
+</p>
