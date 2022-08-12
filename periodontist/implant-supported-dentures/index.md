@@ -9,23 +9,18 @@ title: Implant Supported Dentures
 <div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
 
 
-Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.
-Some of the benefits of stabilising dentures with dental implants are:
+<p>Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.</p>
 
-</p>
+<p>Some of the benefits of stabilising dentures with dental implants are:</p>
+
+<p>
 <ul><li> Improved speech and confidence                           </li>
 <li>     It’s a minimally invasive procedure</li>
 <li>     Ends the cost and inconvenience of denture adhesives</li>
 <li>     Restores proper chewing. This allows for a better diet and improved health</li>
 <li>     Helps stimulate your jaw and maintain bone structure</li></ul>
-<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#What_to_expect"><span class="tocnumber">1</span> <span class="toctext">What to expect</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Fixed"><span class="tocnumber">2</span> <span class="toctext">Fixed</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Removable"><span class="tocnumber">3</span> <span class="toctext">Removable</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#Implant-stabilised"><span class="tocnumber">4</span> <span class="toctext">Implant-stabilised</span></a></li>
-</ul>
-</div>
+</p>
+
 
 <h3><span class="mw-headline" id="What_to_expect">What to expect</span></h3>
 <p>During your initial consultation an x-ray will be taken and a mould of your teeth created to observe the implant position. If you do not have adequate jaw bone structure you may require a bone graft prior to surgery.
