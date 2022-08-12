@@ -5,8 +5,8 @@ title: Implant Supported Dentures
 
 <div class="row">
 
-<div class="col-xs-12 col-sm-12  primary_color text-light featured-text no-gutters">
-<div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
+<div class="col-xs-12 col-sm-12 no-gutters">
+<div class=" col-md-12" style="background: #dae6f7;, url() center; padding: 8%;">
 
 
 <p>Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.</p>
