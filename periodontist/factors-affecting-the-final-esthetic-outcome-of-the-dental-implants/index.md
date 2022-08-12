@@ -21,7 +21,7 @@ title: Factors affecting the final Esthetic Outcome of the Dental Implants
 <li> <i>size of implant</i></li>
 <li> <i>position of implant</i></li>
 <li> <i>cultivation and remodeling of tissue while placing the crown</i></li></ul>
-
+<p></p>
 <p>A thin receding gum over the implant may show grayish tinge of the inner metal, the crown can appear longer and some times tissue between implants (papilla) are missing which leads to unsightly gaps.
 </p>
 
