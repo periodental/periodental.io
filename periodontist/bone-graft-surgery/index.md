@@ -10,8 +10,10 @@ title: Bone Graft Surgery
 
 
 <h2><span class="mw-headline" id="Bone_Graft">Bone Graft</span></h2>
-<p>In some situation where the tooth has been lost for a long time, there is deficient bone width and height. In such situation bone graft is performed.
-</p><p>Usually Bone graft is performed with collagen membrane and particulate bone materials derived from human or animals. However in some situation depending upon the complexity of case following techniques are utilized:
+<p>In some situations where the tooth has been lost for a long time, the bone width and height is deficient. In these situations a bone graft is performed.
+</p>
+
+<p>Usually Bone graft is performed with collagen membrane and particulate bone materials derived from human or animals. However in some situation depending upon the complexity of case following techniques are utilized:
 </p>
 
 <h3><span class="mw-headline" id="Tenting_Screws">Tenting Screws</span></h3>
