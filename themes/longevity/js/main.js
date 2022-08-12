@@ -15,5 +15,4 @@ $(document).ready(function (e) {
     currentPageAnchor.parent().addClass('current-menu-item');
 
     currentPageAnchor.parents('li.menu-item').addClass('current-menu-item');
-    console.log(currentUrl);
 });
