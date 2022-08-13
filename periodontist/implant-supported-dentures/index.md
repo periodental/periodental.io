@@ -11,10 +11,7 @@ title: Implant Supported Dentures
 
 <p>Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.</p>
 
-<p>Some of the benefits of stabilising dentures with dental implants are:</p>
-
-
-
+<p>Some of the benefits of stabilising dentures with dental implants are:
 
 <ul class="bullets">
 <li>Improved speech and confidence</li>
@@ -22,7 +19,7 @@ title: Implant Supported Dentures
 <li>Ends the cost and inconvenience of denture adhesives</li>
 <li>Restores proper chewing. This allows for a better diet and improved health</li>
 <li>Helps stimulate your jaw and maintain bone structure</li>
-</ul>
+</ul></p>
 
 
 <h5>What to expect</h5>
