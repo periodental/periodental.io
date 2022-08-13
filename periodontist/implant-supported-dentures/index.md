@@ -15,14 +15,14 @@ title: Implant Supported Dentures
 
 
 
-<section><ul>
-<!-- <ul class="bullets"> -->
+
+<ul class="bullets">
 <li>Improved speech and confidence</li>
 <li>It’s a minimally invasive procedure</li>
 <li>Ends the cost and inconvenience of denture adhesives</li>
 <li>Restores proper chewing. This allows for a better diet and improved health</li>
 <li>Helps stimulate your jaw and maintain bone structure</li>
-</ul></section>
+</ul>
 
 
 
