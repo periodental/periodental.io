@@ -43,4 +43,9 @@ title: Implant Supported Dentures
 <p>Implant-stabilised overdentures are custom created in the same manner as fixed and removable dentures. However, a smaller number of implants are used to stabilise the denture. This type of denture is able to be taken out each night to clean it.
 </p>
 
-<a href="/File:Gallery-image.jpg" class="image"><img alt="Gallery-image.jpg" src="/images/e/e2/Gallery-image.jpg" width="245" height="179" /></a>
+
+<p>
+<br />
+<img alt="Implant supported Dentures" src="/images/Implant-supported-Dentures.jpg" />
+</p>
+
