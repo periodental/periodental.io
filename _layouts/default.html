@@ -36,14 +36,7 @@
     <meta name="twitter:title" content="Perio Dental"/>
     <link rel='dns-prefetch' href="https://ajax.googleapis.com/" />
     <link rel='dns-prefetch' href="https://s.w.org/" />
-    <link rel="alternate" type="application/rss+xml"
-          title="Perio Dental &raquo; Feed" href="/feed/index.html"/>
-    <link rel="alternate" type="application/rss+xml"
-          title="Perio Dental &raquo; Comments Feed"
-          href="/comments/feed/index.html"/>
-    <link rel="alternate" type="application/rss+xml"
-          title="Perio Dental &raquo; Home Comments Feed"
-          href="feed/index.html"/>
+
 
     <link rel='stylesheet' id='wp-block-library-css'
           href='/wp-includes/css/dist/block-library/style.min3c21.css' type='text/css' media='all'/>
@@ -185,7 +178,28 @@
 
     <style type="text/css">.site-title a {
             background: url(/wp-content/uploads/ABOT-Logo-NonRetna.png) no-repeat !important;
-        }</style>
+        }
+		
+		.navbar-brand {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+	
+	  header .navbar-brand, header.scrolled .navbar-brand, header.nav-dark.scrolled .navbar-brand, header.nav-dark.show .navbar-brand {
+        display: block;
+        width: 72px;
+        height: 24px;
+        background-image: url("data:image/svg+xml,%3Csvg width='auto' height='24' viewBox='0 0 84 30' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M13.4648 3.15385C13.4648 1.85404 14.4391 0.988281 15.7389 0.988281C17.0387 0.988281 17.9774 1.85482 17.9774 3.15385C17.9774 4.45289 17.0387 5.35585 15.7389 5.35585C14.4391 5.35585 13.4648 4.45366 13.4648 3.15385ZM17.3635 29.4693H14.1144V8.78558H17.3635V29.4693ZM11.1542 11.6367H7.58028C4.62025 11.6367 3.24836 14.1278 3.24836 17.99V29.4689H0V8.78516H2.74378L3.06854 12.287C3.64597 10.1214 5.19846 8.78516 7.40046 8.78516H10.7217L11.1549 11.6367H11.1542ZM31.4433 29.4686L31.8765 26.6171H28.5553C27.5082 26.6171 26.7866 25.8947 26.7866 24.8119V11.6363H31.4433V8.78482H26.7866V2.07031L23.5375 3.6228V8.78482H20V11.6363H23.5375V25.2452C23.5375 27.8084 25.2341 29.4686 27.7973 29.4686H31.4433ZM51.1835 16.0419V29.4702H47.9343V16.6558C47.9343 13.3346 45.9486 11.3132 42.8444 11.3132C39.5232 11.3132 37.5382 14.1647 37.5382 17.8107V29.4702H34.2891V2.46875H37.5382V12.5766C38.6574 9.86921 40.9315 8.35315 43.7474 8.35315C48.2234 8.35315 51.1835 11.2768 51.1835 16.0419ZM83.9993 29.4686V16.0403H84C84 11.2752 81.1485 8.35156 76.7445 8.35156C73.7845 8.35156 71.4375 9.9397 70.2106 13.0803C69.272 10.0839 66.7809 8.35156 63.424 8.35156C60.4996 8.35156 58.262 9.97613 57.2148 12.9362L56.818 8.78483H54.0742V29.4694H57.3234V17.8099C57.3234 14.1639 59.2719 11.2759 62.521 11.2759C65.5531 11.2759 67.4304 13.333 67.4304 16.6542V29.4694H70.6431V17.8099C70.6431 14.1639 72.6281 11.2759 75.8772 11.2759C78.9093 11.2759 80.7501 13.333 80.7501 16.6542V29.4686H83.9993Z' fill='white'/%3E%3C/svg%3E%0A");
+        background-repeat: no-repeat;
+        font-size: 0;
+    }
+    header.nav-dark .navbar-brand {
+        width: 72px;
+        height: 24px;
+        background-image: url("data:image/svg+xml,%3Csvg width='auto' height='24' viewBox='0 0 84 30' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath fill-rule='evenodd' clip-rule='evenodd' d='M13.4648 3.15385C13.4648 1.85404 14.4391 0.988281 15.7389 0.988281C17.0387 0.988281 17.9774 1.85482 17.9774 3.15385C17.9774 4.45289 17.0387 5.35585 15.7389 5.35585C14.4391 5.35585 13.4648 4.45366 13.4648 3.15385ZM17.3635 29.4693H14.1144V8.78558H17.3635V29.4693ZM11.1542 11.6367H7.58028C4.62025 11.6367 3.24836 14.1278 3.24836 17.99V29.4689H0V8.78516H2.74378L3.06854 12.287C3.64597 10.1214 5.19846 8.78516 7.40046 8.78516H10.7217L11.1549 11.6367H11.1542ZM31.4433 29.4686L31.8765 26.6171H28.5553C27.5082 26.6171 26.7866 25.8947 26.7866 24.8119V11.6363H31.4433V8.78482H26.7866V2.07031L23.5375 3.6228V8.78482H20V11.6363H23.5375V25.2452C23.5375 27.8084 25.2341 29.4686 27.7973 29.4686H31.4433ZM51.1835 16.0419V29.4702H47.9343V16.6558C47.9343 13.3346 45.9486 11.3132 42.8444 11.3132C39.5232 11.3132 37.5382 14.1647 37.5382 17.8107V29.4702H34.2891V2.46875H37.5382V12.5766C38.6574 9.86921 40.9315 8.35315 43.7474 8.35315C48.2234 8.35315 51.1835 11.2768 51.1835 16.0419ZM83.9993 29.4686V16.0403H84C84 11.2752 81.1485 8.35156 76.7445 8.35156C73.7845 8.35156 71.4375 9.9397 70.2106 13.0803C69.272 10.0839 66.7809 8.35156 63.424 8.35156C60.4996 8.35156 58.262 9.97613 57.2148 12.9362L56.818 8.78483H54.0742V29.4694H57.3234V17.8099C57.3234 14.1639 59.2719 11.2759 62.521 11.2759C65.5531 11.2759 67.4304 13.333 67.4304 16.6542V29.4694H70.6431V17.8099C70.6431 14.1639 72.6281 11.2759 75.8772 11.2759C78.9093 11.2759 80.7501 13.333 80.7501 16.6542V29.4686H83.9993Z' fill='black'/%3E%3C/svg%3E%0A");
+    }
+		
+		</style>
     <style type="text/css" id="custom-background-css">
         body.custom-background {
             background-image: url("wp-content/uploads/ABOT-Background-Main.jpg");
