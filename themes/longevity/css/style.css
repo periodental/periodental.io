@@ -6,8 +6,13 @@
   align-items: center;
   padding: 0 20px; }
   .header-image .site-title > a {
-    background-position: left center !important;
-    max-width: 200px; }
+    border: 0;
+        position: relative;
+        width: 325px;
+        font-size: 16px;
+        font-weight: 500;
+        padding-left: 0;
+        border-bottom: 1px solid #fff; }
 
 .sub-menu-title {
   display: none; }
@@ -153,8 +158,13 @@
   font-size: 12px;
   padding: 0 20px; }
   .header-image .site-title > a {
-    background-position: center !important;
-    background-size: contain !important; }
+    border: 0;
+        position: relative;
+        width: 325px;
+        font-size: 16px;
+        font-weight: 500;
+        padding-left: 0;
+        border-bottom: 1px solid #fff; }
 
 .responsive-menu-icon {
   min-width: 60px;
