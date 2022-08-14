@@ -7,14 +7,7 @@
   padding: 0 20px; }
   .header-image .site-title > a {
     background-position: left center !important;
-    max-width: 200px;
-position: relative;
-        margin: 10px 0 20px 0;
-        border-top: 0;
-        display: none;
-        opacity: 1;
-        left: auto;
-        width: 300px;	}
+    max-width: 200px; }
 
 .sub-menu-title {
   display: none; }
@@ -151,9 +144,9 @@ position: relative;
   background-color: transparent; }
 .home .site-header > .wrap {
   transition: background-color 0.4s ease-in-out;
-  background-color: red; }
+  background-color: green; }
 .home .site-header.affix > .wrap {
-  background-color: red; }
+  background-color: green; }
 
 .header-image .site-title {
   text-indent: 0;
@@ -161,14 +154,7 @@ position: relative;
   padding: 0 20px; }
   .header-image .site-title > a {
     background-position: center !important;
-    background-size: contain !important; 
-	position: relative;
-        margin: 10px 0 20px 0;
-        border-top: 0;
-        display: none;
-        opacity: 1;
-        left: auto;
-        width: 300px;}
+    background-size: contain !important; }
 
 .responsive-menu-icon {
   min-width: 60px;
