@@ -172,7 +172,7 @@
     width: calc(100% - 320px); }
   .site-header .title-area {
 
-align-items: center;	}
+	}
   .site-header .menu {
     display: flex;
     align-items: center; }
