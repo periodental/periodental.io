@@ -2,7 +2,12 @@
 layout: default
 title: Sinus Lift Surgery
 ---
-<div class="container">
+
+
+<div class="row">
+
+<div class="col-xs-12 featured-text no-gutters" style="background: #dae6f7; url() center; padding: 8%;">
+
 
 <h3><span class="mw-headline" id="Sinus_Lift">Sinus Lift</span></h3>
 <p>There has been great advancement in sinus lift techniques. After the tooth removal in upper jaw our maxillary sinus which is a hollow structure sitting inside the bone starts migrating downwards and over the time there is very little bone available to place implants. With the sinus lift techniques the floor of the sinus is raised and hence it is possible to place the dental implants.
