@@ -19,5 +19,5 @@ title: Receding gums
 
 <p>
 <br />
-<img alt="Gummy smile before and after" src="/images/gummy_smile_before_and_after.jpg" />
+<img alt="Receding gums before and after" src="/images/Receding-gums.jpg" />
 </p>
