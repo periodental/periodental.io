@@ -6,14 +6,7 @@
   align-items: center;
   padding: 0 20px; }
   .header-image .site-title > a {
-    position: absolute;
-    width: 100%;
-    left: 0;
-    padding: 80px calc((100% - 1144px) / 2) 40px calc((100% - 1144px) / 2);
-    top: 104px;
-    display: flex;
-    flex-wrap: wrap;
-    min-height: 460px; }
+      margin-top: 13px; }
 
 .sub-menu-title {
   display: none; }
@@ -159,14 +152,7 @@
   font-size: 12px;
   padding: 0 20px; }
   .header-image .site-title > a {
-    position: absolute;
-    width: 100%;
-    left: 0;
-    padding: 80px calc((100% - 1144px) / 2) 40px calc((100% - 1144px) / 2);
-    top: 104px;
-    display: flex;
-    flex-wrap: wrap;
-    min-height: 460px; }
+  margin-top: 13px; }
 
 .responsive-menu-icon {
   min-width: 60px;
