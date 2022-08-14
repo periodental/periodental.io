@@ -5,8 +5,8 @@ title: Bone Graft Surgery
 
 <div class="row">
 
-<div class="col-xs-12 col-sm-12  featured-text no-gutters">
-<div class=" col-md-12" style="background: #dae6f7;, url() center; padding: 8%;">
+<div class="col-xs-12  featured-text no-gutters" style="background: #dae6f7;, url() center; padding: 8%;">
+
 
 
 <h2>Bone Graft Surgery</h2>
