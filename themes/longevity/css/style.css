@@ -171,7 +171,7 @@
   .site-header .widget-area {
     width: calc(100% - 320px); }
   .site-header .title-area {
-    width: 320px;
+
 align-items: center;	}
   .site-header .menu {
     display: flex;
