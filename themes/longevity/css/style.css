@@ -8,13 +8,13 @@
   .header-image .site-title > a {
     background-position: left center !important;
     max-width: 200px;
-border: 0;
-        position: relative;
-        width: 325px;
-        font-size: 16px;
-        font-weight: 500;
-        padding-left: 0;
-        border-bottom: 1px solid #fff;	}
+position: relative;
+        margin: 10px 0 20px 0;
+        border-top: 0;
+        display: none;
+        opacity: 1;
+        left: auto;
+        width: 300px;	}
 
 .sub-menu-title {
   display: none; }
@@ -162,13 +162,13 @@ border: 0;
   .header-image .site-title > a {
     background-position: center !important;
     background-size: contain !important; 
-	border: 0;
-        position: relative;
-        width: 325px;
-        font-size: 16px;
-        font-weight: 500;
-        padding-left: 0;
-        border-bottom: 1px solid #fff;}
+	position: relative;
+        margin: 10px 0 20px 0;
+        border-top: 0;
+        display: none;
+        opacity: 1;
+        left: auto;
+        width: 300px;}
 
 .responsive-menu-icon {
   min-width: 60px;
