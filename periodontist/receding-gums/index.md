@@ -16,4 +16,8 @@ title: Receding gums
 </p><p><br />
 </p>
 
-<div class="thumb tright"><div class="thumbinner" style="width:585px;"><a href="/File:Untit3453led.jpg" class="image"><img alt="Untit3453led.jpg" src="/images/6/6b/Untit3453led.jpg" width="583" height="309" class="thumbimage" /></a>  <div class="thumbcaption"></div></div></div>
+
+<p>
+<br />
+<img alt="Gummy smile before and after" src="/images/gummy_smile_before_and_after.jpg" />
+</p>
