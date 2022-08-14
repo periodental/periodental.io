@@ -144,9 +144,9 @@
   background-color: transparent; }
 .home .site-header > .wrap {
   transition: background-color 0.4s ease-in-out;
-  background-color: green; }
+  background-color: #4e4b61; }
 .home .site-header.affix > .wrap {
-  background-color: green; }
+  background-color: #4e4b61; }
 
 .header-image .site-title {
   text-indent: 0;
