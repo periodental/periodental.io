@@ -4,9 +4,9 @@
   font-size: 12px;
   justify-content: space-between;
   align-items: center;
-  padding: 0 20px; }
+   }
   .header-image .site-title > a {
-      margin-top: 13px; }
+      padding: 40px 09px; }
 
 .sub-menu-title {
   display: none; }
@@ -150,9 +150,9 @@
 .header-image .site-title {
   text-indent: 0;
   font-size: 12px;
-  padding: 0 20px; }
+   }
   .header-image .site-title > a {
-  margin-top: 13px; }
+  padding: 40px 09px; }
 
 .responsive-menu-icon {
   min-width: 60px;
