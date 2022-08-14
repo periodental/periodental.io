@@ -183,6 +183,7 @@ align-items: center;	}
       font-size: 24px; }
       .site-header .menu li:last-child > a:before, .site-header .menu li:last-child > a:after {
         display: none !important; } }
+		
 @media only screen and (max-width: 1153px) {
   .site-container {
     padding-top: 0; }
@@ -201,8 +202,9 @@ align-items: center;	}
       padding: 0 20px; }
 
   .header-image .site-title > a {
-    background-position: left top !important;
+    
  } }
+ 
 .contact-form h2 {
   margin-bottom: 40px;
   font-size: 28px; }
