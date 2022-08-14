@@ -6,7 +6,7 @@
   align-items: center;
    }
   .header-image .site-title > a {
-      padding: 80px calc((100% - 1144px) / 2) 40px calc((100% - 1144px) / 2); }
+      align-items: center; }
 
 .sub-menu-title {
   display: none; }
@@ -152,7 +152,7 @@
   font-size: 12px;
    }
   .header-image .site-title > a {
-   padding: 80px calc((100% - 1144px) / 2) 40px calc((100% - 1144px) / 2);}
+   align-items: center;}
 
 .responsive-menu-icon {
   min-width: 60px;
@@ -170,7 +170,8 @@
   .site-header .widget-area {
     width: calc(100% - 320px); }
   .site-header .title-area {
-    width: 320px; }
+    width: 320px;
+align-items: center;	}
   .site-header .menu {
     display: flex;
     align-items: center; }
