@@ -108,6 +108,8 @@
     z-index: 9;
     top: 40px;
     display: block; } }
+	
+	
 @media (max-width: 1143px) {
   .mobile-cta {
     display: flex !important;
@@ -152,7 +154,7 @@
   font-size: 12px;
    }
   .header-image .site-title > a {
-   padding: 40px 09px;}
+   }
 
 .responsive-menu-icon {
   min-width: 60px;
