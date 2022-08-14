@@ -3,10 +3,11 @@ layout: default
 title: Receding gums
 ---
 
+
 <div class="row">
 
-<div class="col-xs-12 col-sm-12  primary_color text-light featured-text no-gutters">
-<div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
+<div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
+
 
 
 <p>The tissue (gums) play important part in the esthetic of teeth and face. It is like a curtain which covers the roots of teeth and gives proper length to the crowns. The receded gums can make the crown appears longer and shows spaces between teeth.
