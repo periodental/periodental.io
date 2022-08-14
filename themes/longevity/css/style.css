@@ -6,7 +6,7 @@
   align-items: center;
    }
   .header-image .site-title > a {
-      top: 104px; }
+      padding: 80px calc((100% - 1144px) / 2) 40px calc((100% - 1144px) / 2); }
 
 .sub-menu-title {
   display: none; }
@@ -152,7 +152,7 @@
   font-size: 12px;
    }
   .header-image .site-title > a {
-   top: 104px;}
+   padding: 80px calc((100% - 1144px) / 2) 40px calc((100% - 1144px) / 2);}
 
 .responsive-menu-icon {
   min-width: 60px;
