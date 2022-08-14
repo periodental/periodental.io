@@ -172,7 +172,8 @@
   .site-header .widget-area {
     width: calc(100% - 320px); }
   .site-header .title-area {
-    width: 320px; }
+    display: flex;
+    align-items: left; }
   .site-header .menu {
     display: flex;
     align-items: center; }
