@@ -44,6 +44,13 @@ title: Implant Supported Dentures
 </p>
 
 
+
+<p>
+<br />
+<img alt="Dental implants supported denture" src="/images/Dental_implants_supported_denture.jpg" />
+</p>
+
+
 <p>
 <br />
 <img alt="Implant supported Dentures" src="/images/Implant-supported-Dentures.jpg" />

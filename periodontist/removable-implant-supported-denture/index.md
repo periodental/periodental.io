@@ -31,4 +31,8 @@ title: Removable Implant Supported Denture
 </p>
 
 
-<div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Dental_implants_supported_denture.jpg" class="image"><img alt="Dental implants supported denture.jpg" src="/images/thumb/5/5b/Dental_implants_supported_denture.jpg/300px-Dental_implants_supported_denture.jpg" width="300" height="375" class="thumbimage" srcset="/images/thumb/5/5b/Dental_implants_supported_denture.jpg/450px-Dental_implants_supported_denture.jpg 1.5x, /images/thumb/5/5b/Dental_implants_supported_denture.jpg/600px-Dental_implants_supported_denture.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Dental_implants_supported_denture.jpg" class="internal" title="Enlarge"></a></div></div></div></div>
+
+<p>
+<br />
+<img alt="Dental implants supported denture" src="/images/Dental_implants_supported_denture.jpg" />
+</p>
