@@ -1,8 +1,13 @@
 .header-image .site-title {
-
-   }
+  text-indent: 0;
+  display: flex;
+  font-size: 12px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px; }
   .header-image .site-title > a {
- }
+    background-position: left center !important;
+    max-width: 200px; }
 
 .sub-menu-title {
   display: none; }
@@ -27,7 +32,8 @@
     margin-top: 0; }
 
   .header-image .site-title > a {
-}
+    max-width: none;
+    min-width: 300px; }
 
   .genesis-nav-menu a {
     padding: 40px 09px; }
@@ -103,8 +109,6 @@
     z-index: 9;
     top: 40px;
     display: block; } }
-	
-	
 @media (max-width: 1143px) {
   .mobile-cta {
     display: flex !important;
@@ -118,11 +122,12 @@
 
 .site-header {
   top: 0;
+  width: 100%;
   left: 0;
   z-index: 9999; }
   .site-header .wrap {
     padding: 5px 0;
- }
+    max-width: 100%; }
   .site-header .widget-area {
     float: left;
     text-align: left; }
@@ -139,15 +144,17 @@
   background-color: transparent; }
 .home .site-header > .wrap {
   transition: background-color 0.4s ease-in-out;
-  background-color: #4e4b61; }
+  background-color: rgba(255, 255, 255, 0.8); }
 .home .site-header.affix > .wrap {
-  background-color: #4e4b61; }
+  background-color: white; }
 
 .header-image .site-title {
-
-   }
+  text-indent: 0;
+  font-size: 12px;
+  padding: 0 20px; }
   .header-image .site-title > a {
-   }
+    background-position: center !important;
+    background-size: contain !important; }
 
 .responsive-menu-icon {
   min-width: 60px;
@@ -163,10 +170,9 @@
     margin: -52px 0 0 -199px;
   }*/
   .site-header .widget-area {
- }
+    width: calc(100% - 320px); }
   .site-header .title-area {
-
-	}
+    width: 320px; }
   .site-header .menu {
     display: flex;
     align-items: center; }
@@ -176,7 +182,6 @@
       font-size: 24px; }
       .site-header .menu li:last-child > a:before, .site-header .menu li:last-child > a:after {
         display: none !important; } }
-		
 @media only screen and (max-width: 1153px) {
   .site-container {
     padding-top: 0; }
@@ -195,9 +200,8 @@
       padding: 0 20px; }
 
   .header-image .site-title > a {
-    
- } }
- 
+    background-position: left top !important;
+    min-height: 50px; } }
 .contact-form h2 {
   margin-bottom: 40px;
   font-size: 28px; }
