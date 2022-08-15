@@ -7,15 +7,6 @@ title: Cost effectiveness of Dental Implants compared to Bridges and Dentures
 <div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
 
 
-<div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
-<ul>
-<li class="toclevel-1 tocsection-1"><a href="#Cost_effectiveness_of_Implants"><span class="tocnumber">1</span> <span class="toctext">Cost effectiveness of Implants</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="#Straumann_implant_solutions._Quality_return_on_investment."><span class="tocnumber">2</span> <span class="toctext">Straumann implant solutions. Quality return on investment.</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="#Long-term_cost_efficiency"><span class="tocnumber">3</span> <span class="toctext">Long-term cost efficiency</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
-</ul>
-</div>
-
 <h2><span class="mw-headline" id="Cost_effectiveness_of_Implants">Cost effectiveness of Implants</span></h2>
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
@@ -42,6 +33,6 @@ For the replacement of multiple teeth, dental implant protheses were associated
 with higher initial costs, but improvements in oral health-related quality of life
 compared with other treatment options.&lt;ref name="Vogel"/&gt;
 </p>
-<h2><span class="mw-headline" id="References">References</span></h2>
+
 
 <div class="thumb tright"><div class="thumbinner" style="width:302px;"><a href="/File:Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" class="image"><img alt="" src="/images/thumb/d/d8/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg/300px-Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" width="300" height="179" class="thumbimage" srcset="/images/thumb/d/d8/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg/450px-Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg 1.5x, /images/thumb/d/d8/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg/600px-Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg 2x" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/File:Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" class="internal" title="Enlarge"></a></div>After 7 years, the costs for a single-tooth implant restoration pay off and the long-term maintenance costs are lower than for a conventional bridge</div></div></div>
