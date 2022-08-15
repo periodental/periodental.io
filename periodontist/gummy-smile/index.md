@@ -6,6 +6,9 @@ title: Gummy Smile
 <div class="row">
 <div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
 
+<h4>Gummy smile</h4>
+<p></p>
+
 <p>About 5% of the population have gummy smile. When patient smiles excess of gum is visible. The upper front teeth appear shorter in height. It is commonly caused by a condition called as “Altered passive eruption”. 
 </p>
 
