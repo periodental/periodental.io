@@ -13,7 +13,6 @@ title: Removable Implant Supported Denture
 </p>
 <p>The removable implant supported dentures gives good esthetics as they support lips, cheeks and shows right amount of gum and teeth. Some of the patients may have lost so much of bone over the time that the implant supported fix bridge will not be able to replace the lost bone and gum and may look unnatural. The removable implant supported dentures, however, can overcome these draw backs. 
 </p>
-
 <p>The removable implant supported dentures are basically anchored to Implants in two ways-
 </p>
 <p>1. With the clip on type of attachments called locators.
@@ -24,15 +23,7 @@ title: Removable Implant Supported Denture
 </p>
 
 
-
 <p>
 <br />
 <img alt="Removable Implant Supported Denture" src="/images/Removable_Implant_Supported_Denture.jpg" />
-</p>
-
-
-
-<p>
-<br />
-<img alt="Dental implants supported denture" src="/images/Dental_implants_supported_denture.jpg" />
 </p>
