@@ -7,10 +7,10 @@ title: Cost effectiveness of Dental Implants compared to Bridges and Dentures
 <div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
 
 
-<h5><span class="mw-headline" id="Cost_effectiveness_of_Implants">Cost effectiveness of Implants</span></h5>
+<h5>Cost effectiveness of Implants</h5>
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
-<h5><span class="mw-headline" id="Straumann_implant_solutions._Quality_return_on_investment.">Straumann implant solutions. Quality return on investment.</span></h5>
+<h5>Straumann implant solutions. Quality return on investment</h5>
 <p><b>Your health is your wealth, and Straumann dental implant solutions provide:</b>
 </p>
 <ul><li> Better quality of life</li>
@@ -21,8 +21,7 @@ when it comes to deciding between dental implants and conventional
 restorations. Interestingly, studies suggest that implants may be less expensive
 in the long term.
 </p>
-<h5><span class="mw-headline" id="Long-term_cost_efficiency">Long-term cost efficiency</span></h5>
-
+<h5>Long-term cost efficiency</h5>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:
 For single-tooth replacement, a single implant is to be regarded as a cost-effective
 treatment option in comparison to a traditional 3-unit fixed dental prosthesis. &lt;ref&gt;Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.&lt;/ref&gt;
