@@ -3,7 +3,6 @@ layout: default
 title: Lateral pedicle graft
 ---
 
-
 <div class="row">
 <div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
 
