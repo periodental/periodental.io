@@ -1,9 +1,5 @@
 .header-image .site-title {
-  text-indent: 0;
-  display: flex;
-  font-size: 12px;
-  justify-content: space-between;
-  align-items: center;
+
    }
   .header-image .site-title > a {
  }
@@ -148,8 +144,7 @@
   background-color: #4e4b61; }
 
 .header-image .site-title {
-  text-indent: 0;
-  font-size: 12px;
+
    }
   .header-image .site-title > a {
    }
