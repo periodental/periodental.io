@@ -27,7 +27,7 @@ in the long term.
 <h5>Long-term cost efficiency</h5>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:
 For single-tooth replacement, a single implant is to be regarded as a cost-effective
-treatment option in comparison to a traditional 3-unit fixed dental prosthesis. &lt;ref&gt;Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.&lt;/ref&gt;
+treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i>
 In some situations with either non- or minimally restored teeth with sufficient
 bone, an implant reconstruction is recommended from an economical point of
 view.&lt;ref name="Vogel"&gt;Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.&lt;/ref&gt;
