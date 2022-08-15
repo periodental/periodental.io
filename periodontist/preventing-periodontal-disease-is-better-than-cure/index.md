@@ -4,12 +4,14 @@ title: Preventing periodontal disease is better than cure
 ---
 
 <div class="row">
+<div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
 
-<div class="col-xs-12 col-sm-12  primary_color text-light featured-text no-gutters">
-<div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
+<h4>Preventing periodontal disease is better than cure</h4>
+<p></p>
 
 <p>Time, effort and money spent on prevention of dental disease is easier, and cheaper than treatment. Many people think that by the age of 60 or 65 some or all of their teeth will be lost and dentures are inevitable. Do you know your teeth are meant to last for a life time?
-</p><p>Broadly, there are two dental diseases responsible for 90% of teeth loss.
+</p>
+<p>Broadly, there are two dental diseases responsible for 90% of teeth loss.
 </p>
 <div id="toc" class="toc"><div id="toctitle" class="toctitle"><h2>Contents</h2></div>
 <ul>
