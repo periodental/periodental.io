@@ -23,22 +23,20 @@ title: Periodontitis
 <h5>Treatment</h5>
 <p>Depending upon the state of the disease and the amount of bone loss it can be treated either non surgically or surgically. The non surgical treatment is very effective in keeping the disease under control.
 </p><p><br /> 
-</p><p>Non surgical treatment involves:
 </p>
-<ul><li>Good oral hygiene instructions</li></ul>
-<ul><li>Personal brushing, flossing and interdental brushing</li></ul>
-<ul><li>Root planning</li></ul>
-<ul><li>Antimicrobial application</li></ul>
-<ul><li>3 to 4 months maintenance- professional cleaning which may be deep cleaning</li></ul>
-<p><br /> 
-</p><p><br /> 
-</p><p><br />
-</p>
-<h3><span class="mw-headline" id="Surgical_Treatment">Surgical Treatment</span></h3>
+<p>Non surgical treatment involves:
+<ul class="bullets">
+<li>Good oral hygiene instructions</li>
+<li>Personal brushing, flossing and interdental brushing</li>
+<li>Root planning</li>
+<li>Antimicrobial application</li>
+<li>3 to 4 months maintenance- professional cleaning which may be deep cleaning</li></ul></p>
+
+<h5>Surgical Treatment</h5>
 <p>In moderate to advanced cases surgical treatment may be required which involves:
-</p>
-<ul><li>Pocket reduction treatment</li></ul>
-<ul><li>Guided tissue regeneration</li></ul>
+<ul class="bullets">
+<li>Pocket reduction treatment</li>
+<li>Guided tissue regeneration</li></ul></p>
 <p>One of the most important challenges faced traditionally was the recession of gums as a result of surgical and non surgical treatment. Many micro techniques and bio engineered materials have been developed in conjunction with the guided tissue regeneration which minimizes these side effects. It becomes particularly important when dealing with the disease in the front part of the mouth.
 </p>
 <p>At Valley Periodontics and Dental Implants, we take pride in using state of the art techniques such as clinical microscope to minimize esthetic side effects. Our aim is to preserve the tissue which has been given to us by nature and at the same time eliminate the disease.
