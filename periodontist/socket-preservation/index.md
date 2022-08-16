@@ -4,7 +4,7 @@ title: Socket Preservation
 ---
 
 <div class="row">
-<div class="col-xs-12 featured-text no-gutters" style="url() center; padding: 8%;">
+<div class="col-xs-12 primary_color text-light featured-text no-gutters" style="url() center; padding: 8%;">
 
 <h4>Socket Preservation</h4>
 <p></p>
