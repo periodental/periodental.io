@@ -3,8 +3,7 @@ layout: default
 title: Periodontitis
 ---
 
-<div class="container">
-<div class="col-xs-12 primary_color text-light featured-text no-gutters" style="url() center; padding: 8%;">
+<div class="primary_color text-light featured-text" style="url() center; padding: 8%;">
 
 <h4>Periodontitis</h4>
 <p></p>
