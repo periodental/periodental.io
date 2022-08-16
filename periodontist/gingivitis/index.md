@@ -2,8 +2,8 @@
 layout: default
 title: Gingivitis
 ---
-
-<div class="col-xs-12 primary_color text-light featured-text no-gutters" style="url() center; padding: 8%;">
+<div class="container-fluid">
+<div class="primary_color text-light featured-text" style="url() center; padding: 8%;">
 
 <h4>Gingivitis</h4>
 <p></p>
