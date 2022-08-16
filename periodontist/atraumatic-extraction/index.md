@@ -4,7 +4,9 @@ title: Atraumatic Extraction
 ---
 
 <div class="row">
-<div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
+
+<div class="col-xs-12 col-sm-12  primary_color text-light featured-text no-gutters">
+<div class=" col-md-12" style="background: linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ), url() center; padding: 8%;">
 
 <h4>Atraumatic Extraction</h4>
 <p></p>

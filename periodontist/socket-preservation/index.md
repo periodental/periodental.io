@@ -4,7 +4,7 @@ title: Socket Preservation
 ---
 
 <div class="row">
-<div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
+<div class="col-xs-12 featured-text no-gutters" style=" linear-gradient( rgba(17,113,175,0.1), rgba(17,113,175,0.3) ); color: white; url() center; padding: 8%;">
 
 <h4>Socket Preservation</h4>
 <p></p>
