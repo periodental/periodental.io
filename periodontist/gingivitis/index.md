@@ -2,7 +2,7 @@
 layout: default
 title: Gingivitis
 ---
-<div class="container-fluid">
+<div class="row">
 <div class="primary_color text-light featured-text" style="url() center; padding: 8%;">
 
 <h4>Gingivitis</h4>
