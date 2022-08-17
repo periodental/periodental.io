@@ -4,9 +4,10 @@ title: Cost effectiveness of Dental Implants compared to Bridges and Dentures
 ---
 
 <div class="row">
-<div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
+<div class="primary_color text-light" style="url() center; padding: 8%;">
 
-
+<h4>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h4>
+<p></p>
 
 <p>After 7 years, the costs for a single-tooth implant restoration pay off and the long-term maintenance costs are lower than for a conventional bridge.</p>
 
@@ -14,11 +15,11 @@ title: Cost effectiveness of Dental Implants compared to Bridges and Dentures
 <p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
 </p>
 <h5>Straumann implant solutions. Quality return on investment</h5>
-<p><b>Your health is your wealth, and Straumann dental implant solutions provide:</b>
-</p>
-<ul><li> Better quality of life</li>
+<p>Your health is your wealth, and Straumann dental implant solutions provide:
+<ul class="bullets">
+<li> Better quality of life</li>
 <li> Comfort and convenience</li>
-<li> Improved oral health and physical appearance</li></ul>
+<li> Improved oral health and physical appearance</li></ul></p>
 <p>You cannot put a value on one’s health; however, there is a monetary aspect
 when it comes to deciding between dental implants and conventional
 restorations. Interestingly, studies suggest that implants may be less expensive
@@ -27,13 +28,14 @@ in the long term.
 <h5>Long-term cost efficiency</h5>
 <p>In terms of cost-effectiveness, scientific studies came to significant conclusions:
 For single-tooth replacement, a single implant is to be regarded as a cost-effective
-treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i>
+treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>See: Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i>
 In some situations with either non- or minimally restored teeth with sufficient
 bone, an implant reconstruction is recommended from an economical point of
-view.&lt;ref name="Vogel"&gt;Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.&lt;/ref&gt;
+view.<i>See: Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.</i></p>
+<p>
 For the replacement of multiple teeth, dental implant protheses were associated
 with higher initial costs, but improvements in oral health-related quality of life
-compared with other treatment options.&lt;ref name="Vogel"/&gt;
+compared with other treatment options.<i>See: Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.</i>
 </p>
 
 <p>
