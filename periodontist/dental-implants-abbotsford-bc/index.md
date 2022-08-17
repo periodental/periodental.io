@@ -12,7 +12,6 @@ title: Dental implants overview
 </p>
 
 <p>A crown or a bridge is placed over the implant(s). The way our natural teeth have roots, dental implants are similar in many ways to natural teeth. The implants act like the roots of teeth and provide support to the crown.
-</p><p><br />
 </p>
 
 
