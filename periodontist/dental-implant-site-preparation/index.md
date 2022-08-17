@@ -18,3 +18,10 @@ title: Dental Implant Site Preparation
 <p>
 See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental implants</a> for the treatment modalities for regeneration and preservation of hard and soft tissue. 
 </p>
+
+
+
+<p>
+<br />
+<img alt="Implant supported Dentures" src="/images/Implant-supported-Dentures.jpg" />
+</p>

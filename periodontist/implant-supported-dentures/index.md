@@ -4,7 +4,10 @@ title: Implant Supported Dentures
 ---
 
 <div class="row">
-<div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
+<div class="primary_color text-light" style="url() center; padding: 8%;">
+
+<h4>Implant Supported Dentures</h4>
+<p></p>
 
 
 <p>Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.</p>
@@ -42,15 +45,8 @@ title: Implant Supported Dentures
 </p>
 
 
-
 <p>
 <br />
 <img alt="Dental implants supported denture" src="/images/Dental_implants_supported_denture.jpg" />
-</p>
-
-
-<p>
-<br />
-<img alt="Implant supported Dentures" src="/images/Implant-supported-Dentures.jpg" />
 </p>
 
