@@ -4,18 +4,16 @@ title: Bone Graft Surgery
 ---
 
 <div class="row">
+<div class="primary_color text-light" style="url() center; padding: 8%;">
 
-<div class="col-xs-12 featured-text no-gutters" style="background: #dae6f7; url() center; padding: 8%;">
+<h4>Bone Graft Surgery</h4>
+<p></p>
 
-
-
-<h2>Bone Graft Surgery</h2>
 <p>In some situations where the tooth has been lost for a long time, the bone width and height is deficient. In these situations a bone graft is performed.
 </p>
 
 <p>Usually Bone graft is performed with collagen membrane and particulate bone materials derived from human or animals. However in some situation depending upon the complexity of case following techniques are utilized:
 </p>
-
 
 <h5>Bone Split</h5>
 <p>It is a technique where outer and inner side of jaw bone is separated so that grafting can be done in between the core of the bone and in some situation simultaneous implants placement may be possible.
