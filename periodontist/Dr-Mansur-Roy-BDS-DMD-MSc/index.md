@@ -18,3 +18,5 @@ title: Dr. Mansur Roy, B.D.S., D.M.D., M.Sc
 <dl><dd>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</dd>
 <dd></dd></dl>
 <dl><dd>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics &amp; Dental Implants to dentists.</dd></dl>
+<p><iframe width="1120" height="630" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
