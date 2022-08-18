@@ -3,8 +3,7 @@ layout: default
 title: Implant Supported Dentures
 ---
 
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
+
 
 <h4>Implant Supported Dentures</h4>
 <p></p>

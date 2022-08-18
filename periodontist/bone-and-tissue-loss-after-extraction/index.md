@@ -3,8 +3,7 @@ layout: default
 title: Bone and Tissue Loss after Extraction
 ---
 
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
+
 
 <h4>Bone and Tissue Loss after Extraction</h4>
 <p></p>

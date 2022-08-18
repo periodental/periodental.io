@@ -3,8 +3,7 @@ layout: default
 title: Dr. Mansur Roy, B.D.S., D.M.D., M.Sc
 ---
 
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
+
 
 <dl><dd><b>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</b></dd>
 <dd><b>Certified Specialist in Periodontics.</b></dd>

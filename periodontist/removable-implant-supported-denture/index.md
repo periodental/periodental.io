@@ -3,8 +3,7 @@ layout: default
 title: Removable Implant Supported Denture
 ---
 
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
+
 
 <h4>Removable Implant Supported Denture</h4>
 <p></p>

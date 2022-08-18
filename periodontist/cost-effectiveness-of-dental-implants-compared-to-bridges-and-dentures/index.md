@@ -3,8 +3,7 @@ layout: default
 title: Cost effectiveness of Dental Implants compared to Bridges and Dentures
 ---
 
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
+
 
 <h4>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h4>
 <p></p>

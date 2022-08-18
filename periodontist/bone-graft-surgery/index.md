@@ -3,8 +3,7 @@ layout: default
 title: Bone Graft Surgery
 ---
 
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
+
 
 <h4>Bone Graft Surgery</h4>
 <p></p>

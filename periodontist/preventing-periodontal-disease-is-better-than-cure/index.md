@@ -3,8 +3,7 @@ layout: default
 title: Preventing periodontal disease is better than cure
 ---
 
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
+
 
 <h4>Preventing periodontal disease is better than cure</h4>
 <p></p>

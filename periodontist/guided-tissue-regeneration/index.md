@@ -3,8 +3,7 @@ layout: default
 title: Guided Tissue Regeneration
 ---
 
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
+
 
 <h4>Guided Tissue Regeneration</h4>
 <p></p>
