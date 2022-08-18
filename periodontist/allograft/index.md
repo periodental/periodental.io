@@ -3,9 +3,6 @@ layout: default
 title: Allograft
 ---
 
-
-<div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
-
 <h4>Allograft</h4>
 <p></p>
 
