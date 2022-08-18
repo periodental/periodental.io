@@ -3,8 +3,6 @@ layout: default
 title: Factors affecting the final Esthetic Outcome of the Dental Implants
 ---
 
-
-
 <h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
 <p></p>
 

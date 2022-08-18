@@ -3,8 +3,6 @@ layout: default
 title: Sinus Lift Surgery
 ---
 
-
-
 <h4>Sinus Lift Surgery</h4>
 <p></p>
 

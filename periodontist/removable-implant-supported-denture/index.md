@@ -3,11 +3,8 @@ layout: default
 title: Removable Implant Supported Denture
 ---
 
-
-
 <h4>Removable Implant Supported Denture</h4>
 <p></p>
-
 
 <p>The biggest challenge with the conventional denture is that it is supported on gum tissue. Therefore, its chewing efficiency is only 20 to 30 percent as compared to natural teeth. As the time goes by our gums and the bone shrinks and the denture become loose and at times can be a cause of embarrassment in public. As the conventional denture is retained by our muscles, cheeks and gums they need a broad base and that is why these dentures covers the roof of the mouth with a plate, for extra support and retention.
 </p>

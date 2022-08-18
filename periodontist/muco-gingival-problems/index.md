@@ -3,8 +3,6 @@ layout: default
 title: Muco Gingival problems
 ---
 
-
-
 <h4>Muco Gingival problems</h4>
 <p></p>
 

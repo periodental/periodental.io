@@ -3,7 +3,6 @@ layout: default
 title: Dental implants overview
 ---
 
-
 <h4>Dental implants overview</h4>
 <p></p>
 

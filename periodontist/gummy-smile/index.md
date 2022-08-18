@@ -3,8 +3,6 @@ layout: default
 title: Gummy Smile
 ---
 
-
-
 <h4>Gummy smile</h4>
 <p></p>
 

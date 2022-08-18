@@ -3,11 +3,6 @@ layout: default
 title: Perio Dental
 ---
 
-
-<div class="row">
-<div class="primary_color text-light" style="url() center; padding: 8%;">
-
-
 <p><iframe width="1120" height="630" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 

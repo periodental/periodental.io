@@ -3,11 +3,8 @@ layout: default
 title: Implant Supported Dentures
 ---
 
-
-
 <h4>Implant Supported Dentures</h4>
 <p></p>
-
 
 <p>Conventional dentures have a tendency to come loose because of the ineffectiveness of dental adhesives—but with implant supported dentures, that ceases to be a problem.</p>
 

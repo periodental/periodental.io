@@ -3,8 +3,6 @@ layout: default
 title: Dr. Mansur Roy, B.D.S., D.M.D., M.Sc
 ---
 
-
-
 <dl><dd><b>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</b></dd>
 <dd><b>Certified Specialist in Periodontics.</b></dd>
 <dd></dd></dl>

@@ -3,7 +3,6 @@ layout: default
 title: Periodontitis
 ---
 
-
 <h4>Periodontitis</h4>
 <p></p>
 

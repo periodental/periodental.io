@@ -3,8 +3,6 @@ layout: default
 title: Preventing periodontal disease is better than cure
 ---
 
-
-
 <h4>Preventing periodontal disease is better than cure</h4>
 <p></p>
 

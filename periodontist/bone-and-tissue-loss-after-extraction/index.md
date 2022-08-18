@@ -3,8 +3,6 @@ layout: default
 title: Bone and Tissue Loss after Extraction
 ---
 
-
-
 <h4>Bone and Tissue Loss after Extraction</h4>
 <p></p>
 

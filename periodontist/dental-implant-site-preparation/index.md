@@ -3,8 +3,6 @@ layout: default
 title: Dental Implant Site Preparation
 ---
 
-
-
 <h4>Dental implant site preparation</h4>
 <p></p>
 
@@ -17,8 +15,6 @@ title: Dental Implant Site Preparation
 <p>
 See <a href="/periodontist/bone-graft-surgery/index.html">bone grafts for dental implants</a> for the treatment modalities for regeneration and preservation of hard and soft tissue. 
 </p>
-
-
 
 <p>
 <br />

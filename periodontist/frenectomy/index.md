@@ -3,8 +3,6 @@ layout: default
 title: Frenectomy
 ---
 
-
-
 <h4>Frenectomy</h4>
 <p></p>
 <p>There are fibers which runs from under the lips to the gum area. These fibers are called frenum.

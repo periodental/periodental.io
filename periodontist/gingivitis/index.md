@@ -3,8 +3,6 @@ layout: default
 title: Gingivitis
 ---
 
-
-
 <h4>Gingivitis</h4>
 <p></p>
 <p>Gingivitis is inflammation of gums. It is quite common in population. It may lead to a condition known as periodontitis which in turns leads to the loss of supporting elements of teeth. The main cause is plaque ֠bacteria and bio film which develops if oral hygiene is not good. Regular professional hygiene appointment does help in prevention of gingivitis.

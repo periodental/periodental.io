@@ -3,9 +3,6 @@ layout: default
 title: Receding gums
 ---
 
-
-
-
 <h4>Receding gums</h4>
 <p></p>
 

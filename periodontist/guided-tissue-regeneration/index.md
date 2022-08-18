@@ -3,8 +3,6 @@ layout: default
 title: Guided Tissue Regeneration
 ---
 
-
-
 <h4>Guided Tissue Regeneration</h4>
 <p></p>
 

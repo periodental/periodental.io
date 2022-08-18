@@ -3,7 +3,6 @@ layout: default
 title: Connective tissue graft
 ---
 
-
 <h4>Connective tissue graft</h4>
 <p></p>
 
