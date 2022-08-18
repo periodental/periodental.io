@@ -4,7 +4,7 @@ title: Preventing periodontal disease is better than cure
 ---
 
 <div class="row">
-<div class="col-xs-12 featured-text no-gutters" style="background: #4e4b61; color: white; url() center; padding: 8%;">
+<div class="primary_color text-light" style="url() center; padding: 8%;">
 
 <h4>Preventing periodontal disease is better than cure</h4>
 <p></p>
