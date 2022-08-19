@@ -1,0 +1,15 @@
+@font-face {
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'Suisse BP Intl';
+    src: local("Suisse Int'l Regular"), url('suisseintl-regular-webfont.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Suisse BP Intl';
+    font-style: italic;
+    font-weight: normal;
+    src: local("Suisse Int'l Regular Italic"), url('suisseintl-regularitalic-webfont.woff2') format('woff2');
+    font-display: swap;
+}
