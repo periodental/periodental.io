@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Gascogne';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Gascogne TS Light'), url('typeshop_collection_-_gascognets-light-webfont.woff2') format('woff2');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Gascogne';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Gascogne TS Regular'), url('typeshop_collection_-_gascognets-regular-webfont.woff2') format('woff2');
+    font-display: swap;
+}
