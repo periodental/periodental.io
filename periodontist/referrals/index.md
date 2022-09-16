@@ -4,7 +4,7 @@ title: Referrals
 ---
 
 
-<h2>Referrals</h2>
+<h4>Referrals</h4>
 <p>Please either <a class="one" href="/periodontist/referrals/Refer-to-Periodontist-Dr-Roy.pdf">Download PDF</a> or fill out the below form:</p>
 
 
