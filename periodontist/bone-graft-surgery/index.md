@@ -2,13 +2,14 @@
 layout: default
 title: Bone Graft Surgery
 ---
-<h4>Bone Graft Surgery</h4>
+<h3>Bone Graft</h3>
 <p></p>
 <p>The key to success of dental implants is good bone around the implant. If bone is lost then bone graft is required. Based on the type of existing bone we provide treatment for bone grafting. It can be simple bone graft such as using bone material from outside resources. In very severe bone loss a combined procedure using outside resources and your own bone gives predictable results.  </p>
 
 <p>In some situations where the tooth has been lost for a long time or when the tooth is fractured or has gum disease, the bone width and height is deficient.
 </p>
-<h5>Simple Bone Graft</h5>
+
+<h4>Simple Bone Graft</h4>
 <p>A simple bone graft is performed when there is minor deficiency of bone. It is done with collagen membrane and particulate bone materials derived from human or animals. 
 </p>
 
