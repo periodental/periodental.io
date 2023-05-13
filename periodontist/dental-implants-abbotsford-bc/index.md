@@ -6,13 +6,17 @@ title: Dental implants overview
 <h4>Dental implants overview</h4>
 <p></p>
 
-<p>Dental Implants are designed to provide a foundation for replacement teeth that look, feel and function like natural teeth. The implants are tiny titanium posts which are placed into the jawbone where teeth are missing. The bone bonds with the titanium creating a strong foundation for artificial teeth. In addition, dental implants can help preserve facial structure, preventing the bone deterioration which occurs when teeth are missing.
+<p>Dental Implants are designed to provide a foundation for replacing teeth that look, feel and function like natural teeth. The implants are tiny titanium posts which are placed into the jawbone where teeth are missing. The bone bonds with the titanium creating a strong foundation for artificial teeth. In addition, dental implants can help preserve facial structure, preventing the bone deterioration which occurs when teeth are missing.
+</p>
+<p>A crown is that portion of the implant which emerges outside the gum and is the main functional unit. Crown or a bridge is placed over the implant(s). The way our natural teeth have roots, dental implants are similar in many ways to natural teeth. The implants act like the roots of teeth and provide support to the crown.
 </p>
 
-<p>A crown or a bridge is placed over the implant(s). The way our natural teeth have roots, dental implants are similar in many ways to natural teeth. The implants act like the roots of teeth and provide support to the crown.
-</p>
+
+<p>A traditional method of replacing the missing tooth is through Bridge where the artificial tooth is supported by adjacent teeth. Dental Implant is better than Bridge because there is no need to cut the natural teeth as is done for a bridge.</p>
+<p>Dental Implants last longer than teeth supported bridge and are esthetically pleasing. Dr. Roy has taken advanced training for dental implants and does guided surgery to place the implants. A guided surgery assists in precise positioning of the implants.</p>
 
 
+<h4>Advantages of Dental Implants</h4>
 <h5>Preserve bone shrinkage</h5>
 <p>One of the biggest advantages of placing a dental implant is that it preserves our bone from shrinking to a significant extent. Bone underneath the denture or a conventional bridge has no function and as a result it reduces in size. Over the time, the denture becomes loose or the tissue underneath the bridge collapse and leads to esthetic and functional problems. The rate of this bone loss is reduced dramatically with implants.
 </p>
