@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bone Graft Surgery
+title: Bone Graft
 ---
 <h3>Bone Graft</h3>
 <p></p>
