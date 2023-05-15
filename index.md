@@ -22,8 +22,8 @@ Every one would like to keep their natural teeth for lifelong. However, if you a
 <p>At Valley Periodontics office in Abbotsford, we try to understand what is the exact concern for each patient and come up with the best solution to meet the patient’s needs.</p>
 
 
-<h4>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</h4>
-<h4><i>Certified Specialist in Periodontics.</i></h4>
+<h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
+<h6><i>Certified Specialist in Periodontics</i></h6>
 <p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
 <p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and tissue grafts with bio engineered materials.</p>
 <p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
