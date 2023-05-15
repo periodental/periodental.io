@@ -23,7 +23,7 @@ Every one would like to keep their natural teeth for lifelong. However, if you a
 
 
 <h4>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</h4>
-<h4>Certified Specialist in Periodontics.</h4>
+<h4><i>Certified Specialist in Periodontics.</i></h4>
 <p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
 <p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and tissue grafts with bio engineered materials.</p>
 <p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
