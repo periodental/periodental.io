@@ -10,7 +10,7 @@ title: Receding gums
 </p>
 
 <p>Gum plays important part in the esthetic of teeth and face. It is like a curtain which covers the roots of teeth and gives proper length to the crowns. The receded gums (lost tissue) can make the tooth appear longer and shows spaces between teeth.</p>
-<p>Receding gums are treated with tissue grafts. There are various techniques and materials used with tissue grafts.</p>
+<p>Gum recession is treated with tissue grafts. There are various techniques and materials used with tissue grafts.</p>
 <p>Periodontists are trained to perform fine plastic surgeries.  At Perio Dental, we use minimal invasive techniques based on current research, using microscope and fine instruments which results in a very natural looking gums and smile.</p>
 
 <h4>Connective tissue graft</h4>
