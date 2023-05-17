@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Receding Gums and Gum Graft
+title: Receding Gums and Tissue Graft
 ---
 
-<h4>Receding Gums and Gum Graft</h4>
+<h4>Receding Gums and Tissue Graft</h4>
 <p>
 <br />
 <img alt="Receding gums before and after" src="/images/Receding-gums.jpg" />
