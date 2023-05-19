@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Receding Gums and Tissue Graft
+title: Receding Gums and Gum Graft
 ---
 
 
