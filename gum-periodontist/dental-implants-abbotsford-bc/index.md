@@ -87,8 +87,7 @@ title: Dental implants overview
 <p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists</p>
 
 
-<p>
-Every one would like to keep their natural teeth for lifelong. However, if you are suffering from silent gum disease, you may loose the teeth earlier. We can help in diagnosing the gum disease and treat the root cause of the disease. Using this approach will effectively treat the gum disease. You will benefit by having healthy teeth and gums, which can significantly extend the life of the teeth.</p>
+
 
 <p>If you happen to be in a stage of advanced periodontal disease and teeth cannot be saved or you have already lost the teeth, we can provide implant supported fix or removable teeth. You can expect the final result which will look natural and pleasing and long lasting. We look at all the aspects of smile and gum tissue and based on that we make a customized treatment plan. In most of the situations you can get fixed teeth immediately after removing the teeth.</p>
 
