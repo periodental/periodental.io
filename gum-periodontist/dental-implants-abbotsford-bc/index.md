@@ -6,9 +6,9 @@ title: Dental implants overview
 <h3>Dental Implants</h3>
 <p></p>
 
-<p>Dr. Roy has taken several years of training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients.</p>
+<p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. He use guided surgery which is planned digitally and allows a precise surgical placement of implants. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 
-<p>Replacing teeth with dental Implants is a better treatment than many other traditional methods. The implants are screw like structure which are placed within the jaw bone. The implants act like the roots of teeth and provide support to the crown (missing teeth). The results with dental implants look, feel and function like natural teeth. </p>
+<p>Replacing teeth with Dental Implants is a better treatment than many other traditional methods. The implants are screw like structure which are placed within the jaw bone. The implants act like the roots of teeth and provide support to the crown (missing teeth). The results with dental implants look, feel and function like natural teeth. </p>
      
 <p>When the tooth is removed the jaw bone collapses and continue to resorb over the time. Dental Implants retards the bone resorption and hence preserve facial profile. </p>
 
@@ -16,7 +16,7 @@ title: Dental implants overview
    
 <p>A traditional method of replacing the missing tooth is through Bridge where the artificial tooth is supported by adjacent teeth. Dental Implant is better than Bridge because there is no need to cut the natural teeth as is done for a bridge.</p>
 
-<p>Dental Implants last longer than teeth supported bridge and are esthetically pleasing. Dr. Roy has taken advanced training for dental implants and does guided surgery to place the implants. A guided surgery assists in precise positioning of the implants.</p>
+<p>Dental Implants last longer than teeth supported bridge and are esthetically pleasing. </p>
 
 
 <h4>Advantages of Dental Implants</h4>
