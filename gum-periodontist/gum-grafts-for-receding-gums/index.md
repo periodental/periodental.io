@@ -4,8 +4,7 @@ title: Gum Grafts for Receding Gums
 ---
 
 
-<p><iframe width="1120" height="630" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
 
 <h4>Gum Grafts for Receding Gums</h4>
 <p>
@@ -37,6 +36,10 @@ These materials are processed with sophisticated techniques in the lab and is sa
 
 <h5>Bio Engineered materials</h5>
 <p>The Results of grafting procedures can be further enhanced with the addition of biological engineered materials such as EMD (Emdogain) The roots and the tissue are treated with proteins, derived from developing teeth buds of animals or growth factors which can stimulate the body cells to grow in the deficient area.
+</p>
+
+
+<p><iframe width="1120" height="630" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p></p>
