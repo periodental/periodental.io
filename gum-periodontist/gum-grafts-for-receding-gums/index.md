@@ -39,7 +39,7 @@ These materials are processed with sophisticated techniques in the lab and is sa
 <p>The Results of grafting procedures can be further enhanced with the addition of biological engineered materials such as EMD (Emdogain) The roots and the tissue are treated with proteins, derived from developing teeth buds of animals or growth factors which can stimulate the body cells to grow in the deficient area.
 </p>
 
-
+<p></p>
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
 <h6><i>Certified Specialist in Periodontics</i></h6>
 
