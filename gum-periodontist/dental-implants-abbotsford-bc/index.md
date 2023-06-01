@@ -3,8 +3,12 @@ layout: default
 title: Dental implants overview
 ---
 
+
 <h3>Dental Implants</h3>
 <p></p>
+
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Dental Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
 
 <p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. He use guided surgery which is planned digitally and allows a precise surgical placement of implants. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 
@@ -65,12 +69,6 @@ title: Dental implants overview
 <p>
 <br />
 <img alt="Replacement of single or multiple back teeth" src="/images/Replacement_of_single_or_multiple_back_teeth.jpg" />
-</p>
-
-
-
-
-<p><iframe width="1120" height="630" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 
