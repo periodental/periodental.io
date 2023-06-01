@@ -4,6 +4,11 @@ title: Gum Grafts for Receding Gums
 ---
 
 <h4>Gum Grafts for Receding Gums</h4>
+
+
+<p><iframe width="672" height="378" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Gum Grafts for Receding Gums" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
 <p>
 <br />
 <img alt="Receding gums before and after" src="/images/Receding-gums.jpg" />
@@ -36,8 +41,7 @@ These materials are processed with sophisticated techniques in the lab and is sa
 </p>
 
 
-<p><iframe width="1120" height="630" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Treatments offered by Dr. Roy Periodontist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
 
 <p></p>
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
