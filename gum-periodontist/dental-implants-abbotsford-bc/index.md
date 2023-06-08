@@ -84,8 +84,60 @@ title: Dental implants overview
 
 <p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists</p>
 
+<h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
+<p></p>
+
+<p>The biggest challenge in implant dentistry is providing gum tissue in a similar way as our natural teeth. This is because the manner in which our tissue adheres to dental implants is different than as on natural teeth.
+</p>
+
+<p>The final esthetic outcome of the dental implants, is determined by many factors, such as:
+
+<ul class="bullets">
+<li> <i>timings of placement of implants</i></li>
+<li> <i>need for grafting of bone and soft tissue before and during the implant therapy</i></li>
+<li> <i>size of implant</i></li>
+<li> <i>position of implant</i></li>
+<li> <i>cultivation and remodeling of tissue while placing the crown</i></li></ul></p>
+
+<p>A thin receding gum over the implant may show grayish tinge of the inner metal, the crown can appear longer and some times tissue between implants (papilla) are missing which leads to unsightly gaps.
+</p>
+
+<p>Periodontists have undergone extensive training with regards to the treatment of dental implants and they are competent in managing the soft tissue around dental implants.
+</p>
 
 
+<h4>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h4>
+<p></p>
+
+<p>After 7 years, the costs for a single-tooth implant restoration pay off and the long-term maintenance costs are lower than for a conventional bridge.</p>
+
+<h5>Cost effectiveness of Implants</h5>
+<p>Don’t be misled by the initial savings on conventional replacement like Bridge. Besides all the other advantages of Dental Implants over Bridge, there is monetary gain as well.  If you were to compare the total cost between replacing missing teeth with Implants and conventional Bridge, studies have shown that in the long run Implants supported replacement turns out to be economical than the conventional Bridge. It is similar to choosing Electric or Hybrid car over conventional car.
+</p>
+<h5>Straumann implant solutions. Quality return on investment</h5>
+<p>Your health is your wealth, and Straumann dental implant solutions provide:
+<ul class="bullets">
+<li> Better quality of life</li>
+<li> Comfort and convenience</li>
+<li> Improved oral health and physical appearance</li></ul></p>
+<p>You cannot put a value on one’s health; however, there is a monetary aspect when it comes to deciding between dental implants and conventional restorations. Interestingly, studies suggest that implants may be less expensive
+in the long term.
+</p>
+<h5>Long-term cost efficiency</h5>
+<p>In terms of cost-effectiveness, scientific studies came to significant conclusions:</p>
+<p>For single-tooth replacement, a single implant is to be regarded as a cost-effective treatment option in comparison to a traditional 3-unit fixed dental prosthesis. <i>See: Priest, GF, Priest JE. The Economics Of Implants For Single Missing Teeth. Dental Economics 2004;94(5):130-138.</i></p>
+<p>In some situations with either non- or minimally restored teeth with sufficient bone, an implant reconstruction is recommended from an economical point of view. <i>See: Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.</i></p>
+<p>
+For the replacement of multiple teeth, dental implant protheses were associated with higher initial costs, but improvements in oral health-related quality of life compared with other treatment options.<i>See: Vogel R1, Smith-Palmer J, Valentine W. Evaluating the health economic implications and costeffectiveness of dental implants: a literature review.</i>
+</p>
+
+<p>
+<br />
+<img alt="Dental implant based restoration vs conventional 3 unit bridge" src="/images/Dental_implant_based_restoration_vs_conventional_3_unit_bridge.jpg" />
+</p>
+
+
+<h4>Valley Periodontics and Dental Implants, Perio Dental</h4>
 
 <p>If you happen to be in a stage of advanced periodontal disease and teeth cannot be saved or you have already lost the teeth, we can provide implant supported fix or removable teeth. You can expect the final result which will look natural and pleasing and long lasting. We look at all the aspects of smile and gum tissue and based on that we make a customized treatment plan. In most of the situations you can get fixed teeth immediately after removing the teeth.</p>
 
