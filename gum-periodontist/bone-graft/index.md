@@ -45,6 +45,12 @@ title: Bone Graft
 </p>
 
 
+<h4>Socket Preservation</h4>
+<p></p>
+
+<p>Studies have shown that by performing bone grafting immediately after the extraction of tooth not only prevents the initial rapid shrinkage of bone but in some instances regenerate some of the lost height as well. This is extremely important planning in implant dentistry and goes a long way in successful implants.
+</p>
+
 <p>
 <br />
 <img alt="Dental implant placement for insufficient bone volume" src="/images/Dental_implant_placement_for_insufficient_bone_volume.jpg" />
@@ -67,3 +73,22 @@ title: Bone Graft
 
 <p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists</p>
 
+
+
+<h4>Bone and Tissue Loss after Extraction</h4>
+<p></p>
+
+
+<p>When a tooth is extracted, a series of reaction takes place around the extracted site. With in 2 to 3 months the size of the bone and tissue is reduced to half of theirs original size. This process continues over a long term until the bone and tissue becomes very thin and also loses its height. The adjacent teeth tend to take the position of the missing teeth in uncontrolled ways which lead to tilting of teeth. The opposite teeth elongates as there is no antagonist tooth to hold on. Missing teeth also leads to esthetic problems, the facial support is lost, and patient finds difficulty in chewing and speech. Some patient may find joint and muscular pain due to loss of vertical support. It is therefore advisable to replace the missing teeth with artificial teeth.
+</p>
+
+
+<h4>Atraumatic Extraction</h4>
+<p></p>
+
+<p>Planning for implant placement should ideally begin before the extraction. Atraumatic extraction prevents further loss of bone and tissue by using special instruments like periotomes, Piezo Electric tips etc. We utilizes these techniques on a routine basis.
+</p>
+<p>In a conventional removal of a broken or carious tooth involves cutting of the bone around the tooth. Preserving this bone is critical during extraction. Every bit of bone and tissue which is preserved helps in proper placement of dental implants. It is hard to regenerate the bone if it is lost in its height.
+</p>
+<p>Piezo Electric tips with acoustic effects of vibration loosen the teeth with in the bone without cutting away the bone.  Periotomes can be inserted in the periodontal ligament to loosen the teeth. These are some of the atraumatic techniques which are being utilized at our clinic.
+</p>
