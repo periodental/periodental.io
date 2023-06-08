@@ -57,16 +57,18 @@ title: Bone Graft
 </p>
 
 
+<p></p>
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
+<h5><i>Doctor of Dental Medicine, Master of Science, Diploma in Periodontics</i></h5>
 <h6><i>Certified Specialist in Periodontics</i></h6>
 
-<p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
+<p>Dr. Mansur Roy is a Periodontist. He has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
 
-<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and tissue grafts with bio engineered materials.</p>
+<p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and tissue grafts with bio engineered materials.</p>
 
 <p>He is one of the founding member and past president of Implant Society in India which served continuing education to dentists.</p>
 
-<p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists</p>
+<p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists.</p>
 
 
 
