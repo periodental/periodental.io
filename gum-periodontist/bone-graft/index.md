@@ -51,10 +51,7 @@ title: Bone Graft
 <p>Studies have shown that by performing bone grafting immediately after the extraction of tooth not only prevents the initial rapid shrinkage of bone but in some instances regenerate some of the lost height as well. This is extremely important planning in implant dentistry and goes a long way in successful implants.
 </p>
 
-<p>
-<br />
-<img alt="Dental implant placement for insufficient bone volume" src="/images/Dental_implant_placement_for_insufficient_bone_volume.jpg" />
-</p>
+
 
 
 <p></p>
@@ -88,4 +85,10 @@ title: Bone Graft
 <p>In a conventional removal of a broken or carious tooth involves cutting of the bone around the tooth. Preserving this bone is critical during extraction. Every bit of bone and tissue which is preserved helps in proper placement of dental implants. It is hard to regenerate the bone if it is lost in its height.
 </p>
 <p>Piezo Electric tips with acoustic effects of vibration loosen the teeth with in the bone without cutting away the bone.  Periotomes can be inserted in the periodontal ligament to loosen the teeth. These are some of the atraumatic techniques which are being utilized at our clinic.
+</p>
+
+
+<p>
+<br />
+<img alt="Dental implant placement for insufficient bone volume" src="/images/Dental_implant_placement_for_insufficient_bone_volume.jpg" />
 </p>
