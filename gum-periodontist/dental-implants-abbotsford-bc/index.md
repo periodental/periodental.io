@@ -4,7 +4,7 @@ title: Dental implants overview
 ---
 
 
-<h3>Dental Implants</h3>
+<h2>Dental Implants</h2>
 <p></p>
 
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Dental Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -84,7 +84,7 @@ title: Dental implants overview
 
 <p>Preserving and developing natural tissue esthetics in the treatment of Dental implants and Periodontics is his primary interest. He has provided seminars in the subject of Periodontics and Dental Implants to dentists</p>
 
-<h4>Factors affecting the final Esthetic Outcome of the Dental Implants</h4>
+<h3>Factors affecting the final Esthetic Outcome of the Dental Implants</h3>
 <p></p>
 
 <p>The biggest challenge in implant dentistry is providing gum tissue in a similar way as our natural teeth. This is because the manner in which our tissue adheres to dental implants is different than as on natural teeth.
@@ -106,7 +106,7 @@ title: Dental implants overview
 </p>
 
 
-<h4>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h4>
+<h3>Cost effectiveness of Dental Implants compared to Bridges and Dentures</h3>
 <p></p>
 
 <p>After 7 years, the costs for a single-tooth implant restoration pay off and the long-term maintenance costs are lower than for a conventional bridge.</p>
@@ -137,7 +137,7 @@ For the replacement of multiple teeth, dental implant protheses were associated 
 </p>
 
 
-<h4>Valley Periodontics and Dental Implants, Perio Dental</h4>
+<h3>Valley Periodontics and Dental Implants, Perio Dental</h3>
 
 <p>If you happen to be in a stage of advanced periodontal disease and teeth cannot be saved or you have already lost the teeth, we can provide implant supported fix or removable teeth. You can expect the final result which will look natural and pleasing and long lasting. We look at all the aspects of smile and gum tissue and based on that we make a customized treatment plan. In most of the situations you can get fixed teeth immediately after removing the teeth.</p>
 
