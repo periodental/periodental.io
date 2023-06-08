@@ -47,7 +47,7 @@ These materials are processed with sophisticated techniques in the lab and is sa
 <h5><i>Dr. Mansur Roy, B.D.S., D.M.D., M.Sc</i></h5>
 <h6><i>Certified Specialist in Periodontics</i></h6>
 
-<p>Dr. Mansur Roy has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
+<p>Dr. Mansur Roy is a Periodontist. He has taken extensive post graduate training in Periodontics, Dental Implants and sedation. He is also certified by the College of BC to perform intravenous conscious sedation.</p>
 
 <p>After practicing Dentistry for several years in India, he completed his graduation in Dentistry at University of British Columbia (UBC) where he received an Award in Prosthodontics. He continued his studies in United States for three years where he received his Masters Degree in Periodontics.  His subject of research was bone and tissue grafts with bio engineered materials.</p>
 
