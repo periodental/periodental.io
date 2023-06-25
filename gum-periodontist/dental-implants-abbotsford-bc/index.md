@@ -3,12 +3,13 @@ layout: default
 title: Dental implants overview
 ---
 
-
 <h2>Dental Implants</h2>
 <p></p>
 
 <p><iframe width="672" height="378" src="https://www.youtube.com/embed/q2e2iCK2IHo" title="Dental Implants" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
+
+<p>To book an appointment you can either <a class="one" href="/periodontist/request-appointment/index.html">request appointment</a> or or call us at <a href="tel:16047553366">(604) 755-3366</a> or leave a message and we will get back to you soon.</p>
 
 <p>Dr. Roy has taken several years of advanced training in Dental Implants and have provided long term successful Dental Implants with high esthetic results in number of patients. He use guided surgery which is planned digitally and allows a precise surgical placement of implants. An Implant placed in the centre of the missing tooth allows proper distribution of the chewing load and gives pleasant look. </p>
 
