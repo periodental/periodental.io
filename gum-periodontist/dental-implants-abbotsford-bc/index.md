@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Dental Implants
+title: Dental implants overview
 ---
 
 <h2>Dental Implants</h2>
