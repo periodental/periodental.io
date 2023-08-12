@@ -220,7 +220,7 @@ input[type=search] {
 body {
  background-color:#fff;
  color:#777;
- font-family:lato,sans-serif!important;
+ font-family:Roboto,sans-serif!important;
  font-weight:300;
  line-height:1.625
 }
@@ -546,7 +546,7 @@ th {
 }
 .author-box-title {
  color:#333;
- font-family:lato,sans-serif;
+ font-family:Roboto,sans-serif;
  font-size:16px;
  margin-bottom:4px
 }
@@ -828,7 +828,7 @@ div.gform_wrapper form li {
 }
 .site-description {
  color:#aaa;
- font-family:lato,sans-serif;
+ font-family:Roboto,sans-serif;
  font-size:16px;
  font-weight:300;
  letter-spacing:1px;
@@ -859,7 +859,7 @@ div.gform_wrapper form li {
 }
 .genesis-nav-menu {
  clear:both;
- font-family:lato,sans-serif;
+ font-family:Roboto,sans-serif;
  font-size:14px;
  line-height:1.5;
  width:100%
