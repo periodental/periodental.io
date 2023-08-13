@@ -56,6 +56,5 @@ title: Peri-Implantitis
 <li>Implant Removal and Replacement: In severe cases where the implant is compromised, removal and replacement might be the best option.</li>
 </ul>
 <p></p>
-<h3>Conclusion</h3>
 
 <p>Peri-implantitis presents a significant challenge in modern implant dentistry, emphasizing the importance of proper patient education, oral hygiene maintenance, and regular dental follow-ups. With early detection and appropriate intervention, the impact of peri-implantitis can be minimized, allowing patients to enjoy the benefits of their dental implants for years to come. Dental professionals and patients alike must remain vigilant in their efforts to prevent and manage peri-implantitis, ensuring the long-term success of this transformative dental procedure.</p>
