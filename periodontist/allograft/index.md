@@ -47,7 +47,7 @@ title: Enhancing Dental Health with Allografts
 </ul>
 
 <h4>Experience the Difference</h4>
-<p>Choosing Dr. Mansur Roy means choosing a periodontist who is not only well-versed in the latest dental advancements but also deeply committed to your overall well-being.
+<p>Choosing Dr. Mansur Roy means choosing a periodontist who is not only well-versed in the latest dental advancements but also deeply committed to your overall well-being.</p>
 <p>With allografts, you can take a step towards a healthier, more beautiful smile that stands the test of time.</p>
 
 <p>Contact us today to schedule a consultation and explore how allografts can be an integral part of your journey towards optimal dental health.</p>
