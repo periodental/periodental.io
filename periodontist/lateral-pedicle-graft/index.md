@@ -28,7 +28,7 @@ title: Lateral Pedicle Graft
     </li>
     <li>
         <h5>Expert Execution</h5>
-        <p>Our skilled team will perform the Lateral Pedicle Graft with precision and care, ensuring minimal discomfort and optimal results.</p>
+        <p>Dr. Roy will perform the Lateral Pedicle Graft with precision and care, ensuring minimal discomfort and optimal results.</p>
     </li>
     <li>
         <h5>Dedicated Aftercare</h5>
