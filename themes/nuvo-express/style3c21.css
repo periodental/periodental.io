@@ -260,14 +260,7 @@ p {
 strong {
  font-weight:700
 }
-ol,
-ul {
- margin:0;
- padding:0
-}
-li {
- list-style-type:none
-}
+
 blockquote,
 blockquote::before {
  color:#999
