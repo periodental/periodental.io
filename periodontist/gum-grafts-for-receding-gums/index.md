@@ -18,8 +18,7 @@ title: Receding Gums and Tissue Graft
 
 <h4>Allograft or Xenograft</h4>
 
-<p>An alternative to using tissue from the roof of the mouth (autograft) is to use the donor tissue like acellular dermal matrix derived from humans (Allograft) or animal products (Xenograft) such as mucograft. The results of this is very close to the autograft (connective tissue).</p>
-<p>These materials are processed with sophisticated techniques in the lab and is safe. The results of allograft is equally effective with the added advantage of avoiding second surgery on the palate.
+<p>An alternative to using tissue from the roof of the mouth (autograft) is to use the donor tissue like acellular dermal matrix derived from humans (Allograft) or animal products (Xenograft) such as mucograft. The results of this is very close to the autograft (connective tissue). These materials are processed with sophisticated techniques in the lab and is safe. The results of allograft is equally effective with the added advantage of avoiding second surgery on the palate.
 </p>
 
 <h4>Lateral pedicle graft</h4>
