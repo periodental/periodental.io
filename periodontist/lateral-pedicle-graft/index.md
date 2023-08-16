@@ -17,12 +17,12 @@ title: Lateral Pedicle Graft
 
 <h4>Our Approach to Lateral Pedicle Graft</h4>
 <p>At our practice, your comfort and well-being are our top priorities. When you choose Dr. Mansur Roy for your Lateral Pedicle Graft procedure, you can expect:</p>
-<ol>
+<ul>
     <li><strong>Comprehensive Assessment:</strong> Dr. Roy will conduct a thorough examination to determine the extent of gum recession and assess your suitability for the Lateral Pedicle Graft.</li>
     <li><strong>Personalized Treatment Plan:</strong> Based on your unique needs, Dr. Roy will develop a personalized treatment plan that outlines the procedure, expected outcomes, and aftercare instructions.</li>
     <li><strong>Expert Execution:</strong> Our skilled team will perform the Lateral Pedicle Graft with precision and care, ensuring minimal discomfort and optimal results.</li>
     <li><strong>Dedicated Aftercare:</strong> Dr. Roy will guide you through the recovery process and provide tailored aftercare recommendations to promote swift healing and long-lasting results.</li>
-</ol>
+</ul>
 
 <h4>Experience the Difference</h4>
 <p>Choosing Dr. Mansur Roy for your Lateral Pedicle Graft means choosing excellence in periodontal care. With his exceptional credentials, commitment to patient education, and a passion for delivering exceptional results, you can confidently embark on your journey to a healthier, more beautiful smile.</p>
