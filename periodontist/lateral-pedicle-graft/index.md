@@ -9,7 +9,7 @@ title: Lateral Pedicle Graft
 <p>Welcome to Dr. Mansur Roy's Periodontics and Dental Implants Practice! We are delighted to introduce you to the remarkable world of periodontal treatments, where innovative techniques like the Lateral Pedicle Graft are employed to preserve and enhance the beauty of your smile.</p>
 
 <h4>What is a Lateral Pedicle Graft?</h4>
-<p>The Lateral Pedicle Graft is a sophisticated and proven procedure that exemplifies Dr. Mansur Roy's commitment to delivering top-notch periodontal care. This grafting technique is meticulously performed by our skilled team to address gum recession, a common concern that can compromise the aesthetics and health of your teeth.</p>
+<p>The Lateral Pedicle Graft is a sophisticated and proven procedure that exemplifies Dr. Mansur Roy's commitment to delivering top-notch periodontal care. This grafting technique is meticulously performed by Dr. Roy to address gum recession, a common concern that can compromise the aesthetics and health of your teeth.</p>
 <p>Gum recession occurs when the gum tissue around your teeth gradually pulls away, exposing the delicate root surfaces. Factors such as genetics, improper brushing techniques, and periodontal disease can contribute to this issue. The Lateral Pedicle Graft involves gently moving a section of healthy gum tissue from adjacent areas to cover the exposed root surfaces, effectively restoring both the aesthetics and function of your smile.</p>
 
 <h4>Why Choose Dr. Mansur Roy for Your Lateral Pedicle Graft?</h4>
