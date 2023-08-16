@@ -18,11 +18,24 @@ title: Lateral Pedicle Graft
 <h4>Our Approach to Lateral Pedicle Graft</h4>
 <p>At our practice, your comfort and well-being are our top priorities. When you choose Dr. Mansur Roy for your Lateral Pedicle Graft procedure, you can expect:</p>
 <ul>
-    <li><h5>Comprehensive Assessment:</h5> Dr. Roy will conduct a thorough examination to determine the extent of gum recession and assess your suitability for the Lateral Pedicle Graft.</li>
-    <li><h5>Personalized Treatment Plan:</h5> Based on your unique needs, Dr. Roy will develop a personalized treatment plan that outlines the procedure, expected outcomes, and aftercare instructions.</li>
-    <li><h5>Expert Execution:</h5> Our skilled team will perform the Lateral Pedicle Graft with precision and care, ensuring minimal discomfort and optimal results.</li>
-    <li><h5>Dedicated Aftercare:</h5> Dr. Roy will guide you through the recovery process and provide tailored aftercare recommendations to promote swift healing and long-lasting results.</li>
+    <li>
+        <h5>Comprehensive Assessment</h5>
+        <p>Dr. Roy will conduct a thorough examination to determine the extent of gum recession and assess your suitability for the Lateral Pedicle Graft.</p>
+    </li>
+    <li>
+        <h5>Personalized Treatment Plan</h5>
+        <p>Based on your unique needs, Dr. Roy will develop a personalized treatment plan that outlines the procedure, expected outcomes, and aftercare instructions.</p>
+    </li>
+    <li>
+        <h5>Expert Execution</h5>
+        <p>Our skilled team will perform the Lateral Pedicle Graft with precision and care, ensuring minimal discomfort and optimal results.</p>
+    </li>
+    <li>
+        <h5>Dedicated Aftercare</h5>
+        <p>Dr. Roy will guide you through the recovery process and provide tailored aftercare recommendations to promote swift healing and long-lasting results.</p>
+    </li>
 </ul>
+
 
 <h4>Experience the Difference</h4>
 <p>Choosing Dr. Mansur Roy for your Lateral Pedicle Graft means choosing excellence in periodontal care. With his exceptional credentials, commitment to patient education, and a passion for delivering exceptional results, you can confidently embark on your journey to a healthier, more beautiful smile.</p>
