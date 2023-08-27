@@ -14,17 +14,17 @@ title: Enhancing Gum and Bone Grafts with Bioengineered Materials
 
 <p>Biologically engineered materials are synthesized in laboratories, combining biological components and advanced technology to create structures that mimic the natural properties of gum and bone tissue. These materials offer several advantages over traditional grafting techniques:</p>
 <ol>
-<li><strong>Reduced Donor Site Morbidity:</strong> Using biologically engineered materials eliminates the need for harvesting tissue from another part of the patient's body. This minimizes pain, discomfort, and potential complications associated with donor site surgery.</li>
-<li><strong>Customizable Properties:</strong> Engineers can tailor the properties of these materials to suit the specific needs of each patient. This customization ensures optimal graft integration, promoting natural tissue regeneration.</li>
-<li><strong>Consistent Quality:</strong> Biologically engineered materials are produced under controlled conditions, ensuring consistent quality and reducing the risk of graft failure due to variations in graft material.</li>
+<li><strong><il>Reduced Donor Site Morbidity:</strong></il> Using biologically engineered materials eliminates the need for harvesting tissue from another part of the patient's body. This minimizes pain, discomfort, and potential complications associated with donor site surgery.</li>
+<li><strong><il>Customizable Properties:</strong></il> Engineers can tailor the properties of these materials to suit the specific needs of each patient. This customization ensures optimal graft integration, promoting natural tissue regeneration.</li>
+<li><strong><il>Consistent Quality:</strong></il> Biologically engineered materials are produced under controlled conditions, ensuring consistent quality and reducing the risk of graft failure due to variations in graft material.</li>
 </ol>
 <h4>Types of Biologically Engineered Materials</h4>
 
 <p>There are several types of biologically engineered materials used in enhancing gum and bone graft outcomes:</p>
 <ol>
-<li><strong>Synthetic Scaffolds:</strong> These three-dimensional structures provide a framework for cells to grow and regenerate new tissue. Synthetic scaffolds are often made from biocompatible materials such as polymers and ceramics. They offer mechanical support while promoting cell adhesion and proliferation.</li>
-<li><strong>Decellularized Matrices:</strong> Natural tissue, such as human or animal tissues, can be decellularized to remove cellular components while retaining the tissue's extracellular matrix. This matrix acts as a template for the patient's cells to repopulate, encouraging tissue regeneration.</li>
-<li><strong>Growth Factors and Stem Cells:</strong> Biologically engineered materials can be enriched with growth factors and stem cells to further enhance tissue regeneration. Growth factors stimulate cell division, while stem cells have the potential to differentiate into various cell types, contributing to tissue formation.</li>
+<li><strong><il>Synthetic Scaffolds:</strong></il> These three-dimensional structures provide a framework for cells to grow and regenerate new tissue. Synthetic scaffolds are often made from biocompatible materials such as polymers and ceramics. They offer mechanical support while promoting cell adhesion and proliferation.</li>
+<li><strong><il>Decellularized Matrices:</strong></il> Natural tissue, such as human or animal tissues, can be decellularized to remove cellular components while retaining the tissue's extracellular matrix. This matrix acts as a template for the patient's cells to repopulate, encouraging tissue regeneration.</li>
+<li><strong><il>Growth Factors and Stem Cells:</strong></il> Biologically engineered materials can be enriched with growth factors and stem cells to further enhance tissue regeneration. Growth factors stimulate cell division, while stem cells have the potential to differentiate into various cell types, contributing to tissue formation.</li>
 </ol>
 <h4>Clinical Applications and Future Directions</h4>
 
