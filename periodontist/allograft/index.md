@@ -27,7 +27,7 @@ title: Enhancing Dental Health with Allografts
 </li>
 </ul>
 
-<h4>Why Choose Dr. Mansur Roy for Allograft Procedures?</h4>
+<h4>Why Dr. Mansur Roy Stands Out for Allograft Procedures</h4>
 <p>Dr. Mansur Roy's extensive postgraduate training in Periodontics and Dental Implants, along with his certification in intravenous conscious sedation, uniquely positions him to offer cutting-edge treatments like allografts. With his proven track record of successful procedures and dedication to patient care, you can trust that your dental health is in skilled and compassionate hands.</p>
 
 <h4>Our Approach to Allografts</h4>

@@ -16,7 +16,7 @@ title: Connective Tissue Grafts in Restoring Dental Health
 <ul>
     <li>
         <h5>Expertise Beyond Measure:</h5>
-        <p>With an academic journey marked by rigorous training and hands-on experience, Dr. Roy has solidified his reputation as a trailblazer in the realm of periodontal care. His mastery guarantees that each procedure, including Connective Tissue Grafts, is executed with unmatched precision and skill.</p>
+        <p>With an academic journey marked by rigorous training and hands-on experience, Dr. Roy has solidified his reputation as a leader in the realm of periodontal care. His mastery guarantees that each procedure, including Connective Tissue Grafts, is executed with unmatched precision and skill.</p>
     </li>
     <li>
         <h5>Embracing Innovation:</h5>
