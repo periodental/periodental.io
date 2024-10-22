@@ -959,10 +959,14 @@ div.gform_wrapper form li {
  content:"\f333";
  display:block;
  font:normal 20px/1 'dashicons';
- margin:0 auto;
+ margin-right: 8px;
  padding:10px;
  text-align:center
 }
+  .responsive-menu-text {
+    font-size: 18px; /* Adjust text size if needed */
+    display: inline-block; /* Ensure the text shows next to the icon */
+  }
 .site-header .responsive-menu-icon::before {
  padding:0
 }
