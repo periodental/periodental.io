@@ -956,16 +956,12 @@ div.gform_wrapper form li {
  display:none
 }
 .responsive-menu-icon::before {
-  content: "";  /* Remove content property */
-  display: block;
-  width: 20px;  /* Set width of the icon */
-  height: 20px;  /* Set height of the icon */
-  background-image: url("/images/menu.jpg");  /* Replace with path to your image */
-  background-repeat: no-repeat;  /* Prevent image tiling */
-  background-position: center;  /* Center the image */
-  margin: 0 auto;
-  padding: 0;  /* Remove padding */
-  text-align: center;
+ content:"\f333";
+ display:block;
+ font:normal 20px/1 'dashicons';
+ margin:0 auto;
+ padding:10px;
+ text-align:center
 }
 .site-header .responsive-menu-icon::before {
  padding:0
