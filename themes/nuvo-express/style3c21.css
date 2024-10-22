@@ -951,6 +951,7 @@ div.gform_wrapper form li {
  border-color:#222;
  color:#fff
 }
+@media only screen and (max-width:1153px) {
 .responsive-menu-icon {
     display: inline-flex; /* Allow icon and text to appear side by side */
     align-items: center; /* Vertically center the text with the icon */
@@ -968,7 +969,7 @@ div.gform_wrapper form li {
     font-size: 18px; /* Adjust text size if needed */
     display: inline-block; /* Ensure the text shows next to the icon */
    color: black;
-  }
+  }}
 .site-header .responsive-menu-icon::before {
  padding:0
 }
