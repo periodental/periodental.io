@@ -1421,8 +1421,7 @@ p.entry-meta {
   display:block;
  }
  .genesis-nav-menu.responsive-menu .menu-item,
- .responsive-menu-icon {
-  display:block
+ {
  }
  .genesis-nav-menu.responsive-menu .menu-item:hover {
   position:static
