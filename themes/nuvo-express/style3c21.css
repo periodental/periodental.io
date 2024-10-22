@@ -952,17 +952,18 @@ div.gform_wrapper form li {
  color:#fff
 }
 .responsive-menu-icon {
- cursor:pointer;
- display:none
-}
-.responsive-menu-icon::before {
- content:"\f333";
- display:block;
- font:normal 20px/1 'dashicons';
- margin-right: 8px;
- padding:10px;
- text-align:center
-}
+    display: inline-flex; /* Allow icon and text to appear side by side */
+    align-items: center; /* Vertically center the text with the icon */
+    cursor: pointer;
+  }
+
+  .responsive-menu-icon::before {
+    content: "\f333"; /* Dashicons hamburger icon */
+    font: normal 20px/1 'dashicons'; /* Ensure the dashicons font is loaded */
+    margin-right: 8px; /* Space between the icon and "Menu" text */
+    font-size: 24px; /* Adjust the icon size */
+  }
+
   .responsive-menu-text {
     font-size: 18px; /* Adjust text size if needed */
     display: inline-block; /* Ensure the text shows next to the icon */
